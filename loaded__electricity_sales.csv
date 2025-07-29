@@ -1,0 +1,2419 @@
+,period,stateDescription,sectorName,price,price-units
+0,2023-12,Hawaii,transportation,0.0,cents per kilowatt-hour
+3,2023-12,Idaho,industrial,6.21,cents per kilowatt-hour
+5,2023-12,Idaho,residential,11.53,cents per kilowatt-hour
+6,2023-12,Idaho,transportation,0.0,cents per kilowatt-hour
+9,2023-12,Illinois,industrial,8.1,cents per kilowatt-hour
+11,2023-12,Illinois,residential,14.84,cents per kilowatt-hour
+12,2023-12,Illinois,transportation,7.29,cents per kilowatt-hour
+15,2023-12,Indiana,industrial,7.87,cents per kilowatt-hour
+17,2023-12,Indiana,residential,14.58,cents per kilowatt-hour
+18,2023-12,Indiana,transportation,11.56,cents per kilowatt-hour
+21,2023-12,Iowa,industrial,5.97,cents per kilowatt-hour
+23,2023-12,Iowa,residential,11.95,cents per kilowatt-hour
+24,2023-12,Iowa,transportation,0.0,cents per kilowatt-hour
+27,2023-12,Kansas,industrial,7.14,cents per kilowatt-hour
+29,2023-12,Kansas,residential,12.72,cents per kilowatt-hour
+30,2023-12,Kansas,transportation,0.0,cents per kilowatt-hour
+33,2023-12,Kentucky,industrial,6.36,cents per kilowatt-hour
+35,2023-12,Kentucky,residential,12.34,cents per kilowatt-hour
+36,2023-12,Kentucky,transportation,0.0,cents per kilowatt-hour
+39,2023-12,Louisiana,industrial,5.84,cents per kilowatt-hour
+41,2023-12,Louisiana,residential,11.21,cents per kilowatt-hour
+42,2023-12,Louisiana,transportation,11.22,cents per kilowatt-hour
+45,2023-12,Maine,industrial,13.7,cents per kilowatt-hour
+47,2023-12,Maine,residential,27.99,cents per kilowatt-hour
+48,2023-12,Maine,transportation,0.0,cents per kilowatt-hour
+51,2023-12,Maryland,industrial,10.17,cents per kilowatt-hour
+53,2023-12,Maryland,residential,17.46,cents per kilowatt-hour
+54,2023-10,Wyoming,industrial,7.47,cents per kilowatt-hour
+56,2023-10,Wyoming,residential,12.49,cents per kilowatt-hour
+57,2023-10,Wyoming,transportation,0.0,cents per kilowatt-hour
+60,2023-10,New England,industrial,15.77,cents per kilowatt-hour
+62,2023-10,New England,residential,28.05,cents per kilowatt-hour
+63,2023-10,New England,transportation,10.94,cents per kilowatt-hour
+66,2023-10,Middle Atlantic,industrial,7.72,cents per kilowatt-hour
+68,2023-10,Middle Atlantic,residential,19.67,cents per kilowatt-hour
+69,2023-10,Middle Atlantic,transportation,14.21,cents per kilowatt-hour
+72,2023-10,East North Central,industrial,7.86,cents per kilowatt-hour
+74,2023-10,East North Central,residential,16.51,cents per kilowatt-hour
+75,2023-10,East North Central,transportation,7.35,cents per kilowatt-hour
+78,2023-10,West North Central,industrial,7.4,cents per kilowatt-hour
+80,2023-10,West North Central,residential,13.22,cents per kilowatt-hour
+81,2023-10,West North Central,transportation,12.44,cents per kilowatt-hour
+84,2023-10,South Atlantic,industrial,7.45,cents per kilowatt-hour
+86,2023-10,South Atlantic,residential,15.0,cents per kilowatt-hour
+87,2023-10,South Atlantic,transportation,10.25,cents per kilowatt-hour
+90,2023-10,East South Central,industrial,6.7,cents per kilowatt-hour
+92,2023-10,East South Central,residential,13.48,cents per kilowatt-hour
+93,2023-10,East South Central,transportation,0.0,cents per kilowatt-hour
+96,2023-10,West South Central,industrial,6.38,cents per kilowatt-hour
+98,2023-10,West South Central,residential,14.18,cents per kilowatt-hour
+99,2023-10,West South Central,transportation,7.34,cents per kilowatt-hour
+102,2023-10,Mountain,industrial,7.52,cents per kilowatt-hour
+104,2023-09,Louisiana,industrial,5.35,cents per kilowatt-hour
+106,2023-09,Louisiana,residential,11.42,cents per kilowatt-hour
+107,2023-09,Louisiana,transportation,10.52,cents per kilowatt-hour
+110,2023-09,Maine,industrial,12.47,cents per kilowatt-hour
+112,2023-09,Maine,residential,26.79,cents per kilowatt-hour
+113,2023-09,Maine,transportation,0.0,cents per kilowatt-hour
+116,2023-09,Maryland,industrial,9.82,cents per kilowatt-hour
+118,2023-09,Maryland,residential,16.95,cents per kilowatt-hour
+119,2023-09,Maryland,transportation,11.44,cents per kilowatt-hour
+122,2023-09,Massachusetts,industrial,17.44,cents per kilowatt-hour
+124,2023-09,Massachusetts,residential,28.18,cents per kilowatt-hour
+125,2023-09,Massachusetts,transportation,6.79,cents per kilowatt-hour
+128,2023-09,Michigan,industrial,8.18,cents per kilowatt-hour
+130,2023-09,Michigan,residential,19.49,cents per kilowatt-hour
+131,2023-09,Michigan,transportation,13.71,cents per kilowatt-hour
+134,2023-09,Minnesota,industrial,9.7,cents per kilowatt-hour
+136,2023-09,Minnesota,residential,15.44,cents per kilowatt-hour
+137,2023-09,Minnesota,transportation,12.53,cents per kilowatt-hour
+140,2023-01,New Jersey,industrial,11.94,cents per kilowatt-hour
+142,2023-01,New Jersey,residential,16.89,cents per kilowatt-hour
+143,2023-01,New Jersey,transportation,14.36,cents per kilowatt-hour
+144,2023-11,Middle Atlantic,transportation,14.82,cents per kilowatt-hour
+147,2023-11,East North Central,industrial,7.78,cents per kilowatt-hour
+149,2023-11,East North Central,residential,16.18,cents per kilowatt-hour
+150,2023-11,East North Central,transportation,5.94,cents per kilowatt-hour
+153,2023-11,West North Central,industrial,7.28,cents per kilowatt-hour
+155,2023-11,West North Central,residential,12.67,cents per kilowatt-hour
+156,2023-11,West North Central,transportation,10.47,cents per kilowatt-hour
+159,2023-11,South Atlantic,industrial,7.44,cents per kilowatt-hour
+161,2023-11,South Atlantic,residential,14.54,cents per kilowatt-hour
+162,2023-11,South Atlantic,transportation,10.21,cents per kilowatt-hour
+165,2023-11,East South Central,industrial,6.7,cents per kilowatt-hour
+167,2023-11,East South Central,residential,13.53,cents per kilowatt-hour
+168,2023-11,East South Central,transportation,0.0,cents per kilowatt-hour
+171,2023-01,New Mexico,industrial,5.75,cents per kilowatt-hour
+173,2023-01,New Mexico,residential,13.27,cents per kilowatt-hour
+174,2023-01,New Mexico,transportation,0.0,cents per kilowatt-hour
+177,2023-01,New York,industrial,7.49,cents per kilowatt-hour
+179,2023-01,New York,residential,23.62,cents per kilowatt-hour
+180,2023-01,New York,transportation,14.75,cents per kilowatt-hour
+183,2023-01,North Carolina,industrial,7.34,cents per kilowatt-hour
+185,2023-01,North Carolina,residential,12.37,cents per kilowatt-hour
+186,2023-01,North Carolina,transportation,7.69,cents per kilowatt-hour
+189,2023-01,North Dakota,industrial,7.39,cents per kilowatt-hour
+192,2023-11,West South Central,industrial,6.05,cents per kilowatt-hour
+194,2023-11,West South Central,residential,13.86,cents per kilowatt-hour
+195,2023-11,West South Central,transportation,7.77,cents per kilowatt-hour
+198,2023-11,Mountain,industrial,7.54,cents per kilowatt-hour
+200,2023-11,Mountain,residential,13.85,cents per kilowatt-hour
+201,2023-11,Mountain,transportation,12.57,cents per kilowatt-hour
+204,2023-11,Pacific Contiguous,industrial,13.08,cents per kilowatt-hour
+206,2023-11,Pacific Contiguous,residential,21.57,cents per kilowatt-hour
+207,2023-11,Pacific Contiguous,transportation,13.17,cents per kilowatt-hour
+210,2023-11,Pacific Noncontiguous,industrial,31.87,cents per kilowatt-hour
+212,2023-11,Pacific Noncontiguous,residential,35.06,cents per kilowatt-hour
+213,2023-11,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+216,2023-11,U.S. Total,industrial,7.79,cents per kilowatt-hour
+218,2023-11,U.S. Total,residential,16.19,cents per kilowatt-hour
+219,2023-11,U.S. Total,transportation,12.6,cents per kilowatt-hour
+221,2023-05,Arizona,industrial,8.01,cents per kilowatt-hour
+223,2023-05,Arizona,residential,14.3,cents per kilowatt-hour
+224,2023-05,Arizona,transportation,10.45,cents per kilowatt-hour
+227,2023-05,Arkansas,industrial,6.3,cents per kilowatt-hour
+229,2023-05,Arkansas,residential,12.32,cents per kilowatt-hour
+230,2023-05,Arkansas,transportation,15.12,cents per kilowatt-hour
+233,2023-05,California,industrial,17.7,cents per kilowatt-hour
+235,2023-05,California,residential,29.82,cents per kilowatt-hour
+236,2023-05,California,transportation,13.12,cents per kilowatt-hour
+239,2023-05,Colorado,industrial,8.46,cents per kilowatt-hour
+241,2023-05,Colorado,residential,14.34,cents per kilowatt-hour
+242,2023-05,Colorado,transportation,11.3,cents per kilowatt-hour
+247,2023-06,Maine,industrial,11.58,cents per kilowatt-hour
+249,2023-06,Maine,residential,27.56,cents per kilowatt-hour
+250,2023-06,Maine,transportation,0.0,cents per kilowatt-hour
+253,2023-06,Maryland,industrial,9.57,cents per kilowatt-hour
+255,2023-06,Maryland,residential,17.0,cents per kilowatt-hour
+256,2023-06,Maryland,transportation,11.16,cents per kilowatt-hour
+259,2023-06,Massachusetts,industrial,17.5,cents per kilowatt-hour
+261,2023-06,Massachusetts,residential,27.52,cents per kilowatt-hour
+262,2023-06,Massachusetts,transportation,7.28,cents per kilowatt-hour
+265,2023-06,Michigan,industrial,8.19,cents per kilowatt-hour
+267,2023-06,Michigan,residential,19.38,cents per kilowatt-hour
+268,2023-06,Michigan,transportation,13.85,cents per kilowatt-hour
+271,2023-06,Minnesota,industrial,9.9,cents per kilowatt-hour
+273,2023-06,Minnesota,residential,15.68,cents per kilowatt-hour
+274,2023-06,Minnesota,transportation,13.9,cents per kilowatt-hour
+277,2023-06,Mississippi,industrial,6.9,cents per kilowatt-hour
+279,2023-05,Connecticut,industrial,14.61,cents per kilowatt-hour
+281,2023-05,Connecticut,residential,31.36,cents per kilowatt-hour
+282,2023-05,Connecticut,transportation,16.12,cents per kilowatt-hour
+285,2023-05,Delaware,industrial,6.99,cents per kilowatt-hour
+287,2023-05,Delaware,residential,16.62,cents per kilowatt-hour
+288,2023-05,Delaware,transportation,0.0,cents per kilowatt-hour
+291,2023-05,District of Columbia,industrial,11.06,cents per kilowatt-hour
+293,2023-05,District of Columbia,residential,17.09,cents per kilowatt-hour
+294,2023-05,District of Columbia,transportation,10.39,cents per kilowatt-hour
+297,2023-05,Florida,industrial,9.13,cents per kilowatt-hour
+299,2023-05,Florida,residential,15.09,cents per kilowatt-hour
+300,2023-05,Florida,transportation,11.49,cents per kilowatt-hour
+302,2023-06,Mississippi,residential,13.27,cents per kilowatt-hour
+303,2023-06,Mississippi,transportation,0.0,cents per kilowatt-hour
+306,2023-06,Missouri,industrial,8.58,cents per kilowatt-hour
+308,2023-06,Missouri,residential,14.1,cents per kilowatt-hour
+309,2023-06,Missouri,transportation,9.7,cents per kilowatt-hour
+312,2023-06,Montana,industrial,6.59,cents per kilowatt-hour
+314,2023-06,Montana,residential,13.16,cents per kilowatt-hour
+315,2023-06,Montana,transportation,0.0,cents per kilowatt-hour
+318,2023-06,Nebraska,industrial,8.12,cents per kilowatt-hour
+320,2023-10,Mountain,residential,13.86,cents per kilowatt-hour
+321,2023-10,Mountain,transportation,12.92,cents per kilowatt-hour
+322,2024-01,Indiana,residential,14.0,cents per kilowatt-hour
+323,2024-01,Indiana,transportation,11.86,cents per kilowatt-hour
+326,2024-01,Iowa,industrial,6.48,cents per kilowatt-hour
+328,2024-01,Iowa,residential,11.85,cents per kilowatt-hour
+329,2024-01,Iowa,transportation,0.0,cents per kilowatt-hour
+332,2024-01,Kansas,industrial,8.1,cents per kilowatt-hour
+334,2024-01,Kansas,residential,13.04,cents per kilowatt-hour
+335,2024-01,Kansas,transportation,0.0,cents per kilowatt-hour
+338,2024-01,Kentucky,industrial,7.18,cents per kilowatt-hour
+340,2024-01,Kentucky,residential,12.51,cents per kilowatt-hour
+341,2024-01,Kentucky,transportation,0.0,cents per kilowatt-hour
+344,2024-01,Louisiana,industrial,5.75,cents per kilowatt-hour
+346,2024-01,Louisiana,residential,10.82,cents per kilowatt-hour
+349,2023-10,Pacific Contiguous,industrial,14.54,cents per kilowatt-hour
+351,2023-10,Pacific Contiguous,residential,23.84,cents per kilowatt-hour
+352,2023-10,Pacific Contiguous,transportation,14.42,cents per kilowatt-hour
+355,2023-10,Pacific Noncontiguous,industrial,30.39,cents per kilowatt-hour
+357,2023-10,Pacific Noncontiguous,residential,35.18,cents per kilowatt-hour
+358,2023-10,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+359,2023-12,Maryland,transportation,11.7,cents per kilowatt-hour
+362,2023-12,Massachusetts,industrial,17.66,cents per kilowatt-hour
+364,2023-12,Massachusetts,residential,28.94,cents per kilowatt-hour
+365,2023-12,Massachusetts,transportation,6.94,cents per kilowatt-hour
+368,2023-12,Michigan,industrial,8.29,cents per kilowatt-hour
+370,2023-12,Michigan,residential,18.7,cents per kilowatt-hour
+371,2023-12,Michigan,transportation,13.68,cents per kilowatt-hour
+374,2023-12,Minnesota,industrial,8.44,cents per kilowatt-hour
+376,2023-12,Minnesota,residential,14.09,cents per kilowatt-hour
+377,2023-12,Minnesota,transportation,10.52,cents per kilowatt-hour
+380,2023-12,Mississippi,industrial,6.89,cents per kilowatt-hour
+382,2023-12,Mississippi,residential,13.06,cents per kilowatt-hour
+383,2023-12,Mississippi,transportation,0.0,cents per kilowatt-hour
+386,2023-12,Missouri,industrial,7.26,cents per kilowatt-hour
+388,2023-12,Missouri,residential,11.33,cents per kilowatt-hour
+389,2023-12,Missouri,transportation,8.63,cents per kilowatt-hour
+393,2023-11,New Hampshire,industrial,15.95,cents per kilowatt-hour
+395,2023-11,New Hampshire,residential,25.58,cents per kilowatt-hour
+396,2023-11,New Hampshire,transportation,0.0,cents per kilowatt-hour
+399,2023-11,New Jersey,industrial,10.71,cents per kilowatt-hour
+401,2023-11,New Jersey,residential,17.47,cents per kilowatt-hour
+402,2023-11,New Jersey,transportation,11.59,cents per kilowatt-hour
+405,2024-01,Louisiana,transportation,10.48,cents per kilowatt-hour
+407,2023-08,South Dakota,industrial,8.36,cents per kilowatt-hour
+409,2023-08,South Dakota,residential,13.07,cents per kilowatt-hour
+410,2023-08,South Dakota,transportation,0.0,cents per kilowatt-hour
+413,2023-08,Tennessee,industrial,6.41,cents per kilowatt-hour
+415,2023-08,Tennessee,residential,11.93,cents per kilowatt-hour
+416,2023-08,Tennessee,transportation,0.0,cents per kilowatt-hour
+419,2023-08,Texas,industrial,9.19,cents per kilowatt-hour
+421,2023-08,Texas,residential,14.17,cents per kilowatt-hour
+422,2023-08,Texas,transportation,6.75,cents per kilowatt-hour
+425,2023-08,Utah,industrial,7.32,cents per kilowatt-hour
+427,2023-08,Utah,residential,11.67,cents per kilowatt-hour
+428,2023-08,Utah,transportation,12.32,cents per kilowatt-hour
+431,2023-08,Vermont,industrial,11.04,cents per kilowatt-hour
+433,2023-08,Vermont,residential,20.47,cents per kilowatt-hour
+434,2023-08,Vermont,transportation,0.0,cents per kilowatt-hour
+437,2023-08,Virginia,industrial,8.62,cents per kilowatt-hour
+439,2023-08,Virginia,residential,13.85,cents per kilowatt-hour
+440,2023-08,Virginia,transportation,10.36,cents per kilowatt-hour
+443,2023-08,Washington,industrial,6.61,cents per kilowatt-hour
+445,2023-08,Washington,residential,11.14,cents per kilowatt-hour
+446,2023-08,Washington,transportation,10.19,cents per kilowatt-hour
+449,2023-08,West Virginia,industrial,7.08,cents per kilowatt-hour
+451,2023-08,West Virginia,residential,14.2,cents per kilowatt-hour
+452,2023-08,West Virginia,transportation,0.0,cents per kilowatt-hour
+455,2023-08,Wisconsin,industrial,9.58,cents per kilowatt-hour
+457,2023-08,Wisconsin,residential,17.19,cents per kilowatt-hour
+458,2023-08,Wisconsin,transportation,18.57,cents per kilowatt-hour
+461,2023-08,Wyoming,industrial,7.36,cents per kilowatt-hour
+463,2023-08,Wyoming,residential,12.45,cents per kilowatt-hour
+464,2023-08,Wyoming,transportation,0.0,cents per kilowatt-hour
+466,2023-02,West South Central,industrial,6.53,cents per kilowatt-hour
+468,2023-02,West South Central,residential,13.89,cents per kilowatt-hour
+469,2023-02,West South Central,transportation,7.35,cents per kilowatt-hour
+472,2023-02,Mountain,industrial,7.45,cents per kilowatt-hour
+474,2023-02,Mountain,residential,13.0,cents per kilowatt-hour
+475,2023-02,Mountain,transportation,12.94,cents per kilowatt-hour
+478,2023-02,Pacific Contiguous,industrial,11.68,cents per kilowatt-hour
+480,2023-02,Pacific Contiguous,residential,19.38,cents per kilowatt-hour
+481,2023-02,Pacific Contiguous,transportation,11.8,cents per kilowatt-hour
+484,2023-02,Pacific Noncontiguous,industrial,32.82,cents per kilowatt-hour
+486,2023-02,Pacific Noncontiguous,residential,34.05,cents per kilowatt-hour
+487,2023-02,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+490,2023-02,U.S. Total,industrial,8.01,cents per kilowatt-hour
+492,2023-02,U.S. Total,residential,15.98,cents per kilowatt-hour
+493,2023-02,U.S. Total,transportation,13.14,cents per kilowatt-hour
+496,2023-04,Alabama,industrial,6.42,cents per kilowatt-hour
+498,2023-04,Alabama,residential,14.54,cents per kilowatt-hour
+499,2023-04,Alabama,transportation,0.0,cents per kilowatt-hour
+502,2023-04,Alaska,industrial,18.85,cents per kilowatt-hour
+504,2023-04,Alaska,residential,23.44,cents per kilowatt-hour
+505,2023-04,Alaska,transportation,0.0,cents per kilowatt-hour
+508,2023-04,Arizona,industrial,7.53,cents per kilowatt-hour
+510,2023-04,Arizona,residential,14.12,cents per kilowatt-hour
+511,2023-04,Arizona,transportation,9.28,cents per kilowatt-hour
+515,2023-08,Maine,industrial,12.59,cents per kilowatt-hour
+517,2023-08,Maine,residential,25.37,cents per kilowatt-hour
+518,2023-08,Maine,transportation,0.0,cents per kilowatt-hour
+521,2023-08,Maryland,industrial,10.02,cents per kilowatt-hour
+523,2023-08,Maryland,residential,16.39,cents per kilowatt-hour
+524,2023-08,Maryland,transportation,11.17,cents per kilowatt-hour
+527,2023-08,Massachusetts,industrial,17.67,cents per kilowatt-hour
+529,2023-08,Massachusetts,residential,28.02,cents per kilowatt-hour
+530,2023-08,Massachusetts,transportation,6.75,cents per kilowatt-hour
+533,2023-08,Michigan,industrial,8.13,cents per kilowatt-hour
+535,2023-08,Michigan,residential,19.57,cents per kilowatt-hour
+537,2023-01,North Dakota,residential,9.95,cents per kilowatt-hour
+538,2023-01,North Dakota,transportation,0.0,cents per kilowatt-hour
+541,2023-01,Ohio,industrial,7.42,cents per kilowatt-hour
+543,2023-01,Ohio,residential,14.3,cents per kilowatt-hour
+544,2023-01,Ohio,transportation,5.51,cents per kilowatt-hour
+547,2023-01,Oklahoma,industrial,6.29,cents per kilowatt-hour
+548,2023-04,Rhode Island,industrial,17.93,cents per kilowatt-hour
+550,2023-04,Rhode Island,residential,23.54,cents per kilowatt-hour
+551,2023-04,Rhode Island,transportation,16.69,cents per kilowatt-hour
+554,2023-04,South Carolina,industrial,6.32,cents per kilowatt-hour
+556,2023-04,South Carolina,residential,13.9,cents per kilowatt-hour
+557,2023-04,South Carolina,transportation,0.0,cents per kilowatt-hour
+560,2023-04,South Dakota,industrial,7.88,cents per kilowatt-hour
+562,2023-04,South Dakota,residential,11.92,cents per kilowatt-hour
+563,2023-04,South Dakota,transportation,0.0,cents per kilowatt-hour
+566,2023-04,Tennessee,industrial,5.78,cents per kilowatt-hour
+568,2023-04,Tennessee,residential,11.86,cents per kilowatt-hour
+569,2023-04,Tennessee,transportation,0.0,cents per kilowatt-hour
+572,2023-04,Texas,industrial,5.6,cents per kilowatt-hour
+574,2023-04,Texas,residential,14.36,cents per kilowatt-hour
+575,2023-04,Texas,transportation,7.14,cents per kilowatt-hour
+578,2023-04,Utah,industrial,6.92,cents per kilowatt-hour
+580,2023-04,Utah,residential,10.84,cents per kilowatt-hour
+581,2023-04,Utah,transportation,12.2,cents per kilowatt-hour
+584,2023-04,Vermont,industrial,10.84,cents per kilowatt-hour
+586,2023-04,Vermont,residential,20.75,cents per kilowatt-hour
+587,2023-10,Oklahoma,residential,13.04,cents per kilowatt-hour
+588,2023-10,Oklahoma,transportation,0.0,cents per kilowatt-hour
+591,2023-10,Oregon,industrial,7.48,cents per kilowatt-hour
+593,2023-10,Oregon,residential,13.29,cents per kilowatt-hour
+594,2023-10,Oregon,transportation,11.66,cents per kilowatt-hour
+597,2023-10,Pennsylvania,industrial,7.63,cents per kilowatt-hour
+599,2023-10,Pennsylvania,residential,18.44,cents per kilowatt-hour
+600,2023-10,Pennsylvania,transportation,10.83,cents per kilowatt-hour
+603,2023-10,Rhode Island,industrial,18.87,cents per kilowatt-hour
+605,2023-10,Rhode Island,residential,30.08,cents per kilowatt-hour
+606,2023-10,Rhode Island,transportation,17.42,cents per kilowatt-hour
+609,2023-10,South Carolina,industrial,6.52,cents per kilowatt-hour
+611,2023-10,South Carolina,residential,14.0,cents per kilowatt-hour
+612,2023-10,South Carolina,transportation,0.0,cents per kilowatt-hour
+615,2023-10,South Dakota,industrial,8.07,cents per kilowatt-hour
+617,2023-10,South Dakota,residential,13.05,cents per kilowatt-hour
+618,2023-10,South Dakota,transportation,0.0,cents per kilowatt-hour
+621,2023-03,Pacific Contiguous,industrial,12.2,cents per kilowatt-hour
+623,2023-03,Pacific Contiguous,residential,21.13,cents per kilowatt-hour
+624,2023-03,Pacific Contiguous,transportation,11.63,cents per kilowatt-hour
+627,2023-03,Pacific Noncontiguous,industrial,32.27,cents per kilowatt-hour
+629,2023-03,Pacific Noncontiguous,residential,34.25,cents per kilowatt-hour
+630,2023-03,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+633,2023-03,U.S. Total,industrial,7.8,cents per kilowatt-hour
+635,2023-03,U.S. Total,residential,16.04,cents per kilowatt-hour
+636,2023-03,U.S. Total,transportation,12.28,cents per kilowatt-hour
+639,2023-12,Alabama,industrial,6.8,cents per kilowatt-hour
+641,2023-12,Alabama,residential,14.16,cents per kilowatt-hour
+642,2023-12,Alabama,transportation,0.0,cents per kilowatt-hour
+645,2023-12,Alaska,industrial,20.55,cents per kilowatt-hour
+647,2023-12,Alaska,residential,24.22,cents per kilowatt-hour
+648,2023-12,Alaska,transportation,0.0,cents per kilowatt-hour
+650,2023-05,Georgia,industrial,6.12,cents per kilowatt-hour
+652,2023-05,Georgia,residential,13.96,cents per kilowatt-hour
+653,2023-05,Georgia,transportation,5.94,cents per kilowatt-hour
+656,2023-05,Hawaii,industrial,35.35,cents per kilowatt-hour
+658,2023-05,Hawaii,residential,42.26,cents per kilowatt-hour
+659,2023-05,Hawaii,transportation,0.0,cents per kilowatt-hour
+662,2023-05,Idaho,industrial,6.56,cents per kilowatt-hour
+663,2023-10,Tennessee,industrial,6.15,cents per kilowatt-hour
+665,2023-10,Tennessee,residential,12.49,cents per kilowatt-hour
+666,2023-10,Tennessee,transportation,0.0,cents per kilowatt-hour
+669,2023-10,Texas,industrial,6.5,cents per kilowatt-hour
+671,2023-10,Texas,residential,14.89,cents per kilowatt-hour
+672,2023-10,Texas,transportation,7.17,cents per kilowatt-hour
+675,2023-10,Utah,industrial,7.38,cents per kilowatt-hour
+677,2023-10,Utah,residential,11.23,cents per kilowatt-hour
+678,2023-10,Utah,transportation,12.32,cents per kilowatt-hour
+681,2023-10,Vermont,industrial,11.3,cents per kilowatt-hour
+683,2023-10,Vermont,residential,22.11,cents per kilowatt-hour
+684,2023-10,Vermont,transportation,0.0,cents per kilowatt-hour
+687,2023-10,Virginia,industrial,8.73,cents per kilowatt-hour
+689,2023-10,Virginia,residential,14.16,cents per kilowatt-hour
+691,2023-05,Idaho,residential,10.72,cents per kilowatt-hour
+692,2023-05,Idaho,transportation,0.0,cents per kilowatt-hour
+695,2023-05,Illinois,industrial,8.1,cents per kilowatt-hour
+697,2023-05,Illinois,residential,17.86,cents per kilowatt-hour
+698,2023-05,Illinois,transportation,7.25,cents per kilowatt-hour
+701,2023-05,Indiana,industrial,8.11,cents per kilowatt-hour
+703,2023-05,Indiana,residential,15.12,cents per kilowatt-hour
+704,2023-05,Indiana,transportation,0.0,cents per kilowatt-hour
+707,2023-05,Iowa,industrial,6.36,cents per kilowatt-hour
+709,2023-05,Iowa,residential,14.29,cents per kilowatt-hour
+710,2023-05,Iowa,transportation,0.0,cents per kilowatt-hour
+713,2023-05,Kansas,industrial,7.43,cents per kilowatt-hour
+715,2023-05,Kansas,residential,13.86,cents per kilowatt-hour
+716,2023-05,Kansas,transportation,0.0,cents per kilowatt-hour
+719,2023-05,Kentucky,industrial,6.51,cents per kilowatt-hour
+721,2023-05,Kentucky,residential,12.69,cents per kilowatt-hour
+722,2023-05,Kentucky,transportation,0.0,cents per kilowatt-hour
+725,2023-05,Louisiana,industrial,5.68,cents per kilowatt-hour
+727,2023-05,Louisiana,residential,11.72,cents per kilowatt-hour
+728,2023-05,Louisiana,transportation,11.47,cents per kilowatt-hour
+731,2023-05,Maine,industrial,11.84,cents per kilowatt-hour
+733,2023-05,Maine,residential,29.19,cents per kilowatt-hour
+734,2023-05,Maine,transportation,0.0,cents per kilowatt-hour
+737,2023-05,Maryland,industrial,9.62,cents per kilowatt-hour
+739,2023-05,Maryland,residential,16.08,cents per kilowatt-hour
+740,2023-05,Maryland,transportation,11.33,cents per kilowatt-hour
+743,2023-05,Massachusetts,industrial,17.6,cents per kilowatt-hour
+745,2023-05,Massachusetts,residential,29.39,cents per kilowatt-hour
+746,2023-05,Massachusetts,transportation,7.51,cents per kilowatt-hour
+749,2023-05,Michigan,industrial,8.09,cents per kilowatt-hour
+751,2023-05,Michigan,residential,18.7,cents per kilowatt-hour
+752,2023-05,Michigan,transportation,14.07,cents per kilowatt-hour
+754,2023-08,Michigan,transportation,14.12,cents per kilowatt-hour
+757,2023-08,Minnesota,industrial,9.85,cents per kilowatt-hour
+759,2023-08,Minnesota,residential,15.61,cents per kilowatt-hour
+761,2023-06,Alabama,industrial,7.53,cents per kilowatt-hour
+763,2023-06,Alabama,residential,14.67,cents per kilowatt-hour
+764,2023-06,Alabama,transportation,0.0,cents per kilowatt-hour
+767,2023-06,Alaska,industrial,19.22,cents per kilowatt-hour
+769,2023-06,Alaska,residential,24.79,cents per kilowatt-hour
+770,2023-06,Alaska,transportation,0.0,cents per kilowatt-hour
+773,2023-06,Arizona,industrial,7.86,cents per kilowatt-hour
+775,2023-06,Arizona,residential,14.28,cents per kilowatt-hour
+776,2023-06,Arizona,transportation,11.46,cents per kilowatt-hour
+779,2023-06,Arkansas,industrial,7.04,cents per kilowatt-hour
+781,2023-06,Arkansas,residential,12.46,cents per kilowatt-hour
+782,2023-06,Arkansas,transportation,16.8,cents per kilowatt-hour
+785,2023-06,California,industrial,19.08,cents per kilowatt-hour
+787,2023-06,California,residential,31.24,cents per kilowatt-hour
+788,2023-06,California,transportation,11.85,cents per kilowatt-hour
+791,2023-06,Colorado,industrial,8.96,cents per kilowatt-hour
+793,2023-06,Colorado,residential,14.63,cents per kilowatt-hour
+794,2023-06,Colorado,transportation,14.98,cents per kilowatt-hour
+797,2023-06,Connecticut,industrial,14.5,cents per kilowatt-hour
+799,2023-06,Connecticut,residential,31.85,cents per kilowatt-hour
+800,2023-06,Connecticut,transportation,16.63,cents per kilowatt-hour
+803,2023-06,Delaware,industrial,6.8,cents per kilowatt-hour
+805,2023-08,Minnesota,transportation,13.4,cents per kilowatt-hour
+808,2023-08,Mississippi,industrial,7.07,cents per kilowatt-hour
+810,2023-08,Mississippi,residential,12.7,cents per kilowatt-hour
+811,2023-08,Mississippi,transportation,0.0,cents per kilowatt-hour
+814,2023-08,Missouri,industrial,8.97,cents per kilowatt-hour
+816,2023-08,Missouri,residential,14.25,cents per kilowatt-hour
+817,2023-08,Missouri,transportation,12.18,cents per kilowatt-hour
+820,2023-08,Montana,industrial,8.74,cents per kilowatt-hour
+822,2023-08,Montana,residential,12.93,cents per kilowatt-hour
+823,2023-08,Montana,transportation,0.0,cents per kilowatt-hour
+826,2023-08,Nebraska,industrial,8.47,cents per kilowatt-hour
+828,2023-08,Nebraska,residential,12.19,cents per kilowatt-hour
+829,2023-08,Nebraska,transportation,0.0,cents per kilowatt-hour
+832,2023-08,Nevada,industrial,12.85,cents per kilowatt-hour
+834,2023-08,Nevada,residential,16.48,cents per kilowatt-hour
+835,2023-08,Nevada,transportation,12.87,cents per kilowatt-hour
+838,2023-08,New Hampshire,industrial,14.93,cents per kilowatt-hour
+840,2023-08,New Hampshire,residential,26.13,cents per kilowatt-hour
+841,2023-08,New Hampshire,transportation,0.0,cents per kilowatt-hour
+844,2023-08,New Jersey,industrial,12.32,cents per kilowatt-hour
+846,2023-08,New Jersey,residential,18.51,cents per kilowatt-hour
+847,2023-08,New Jersey,transportation,12.18,cents per kilowatt-hour
+850,2023-08,New Mexico,industrial,5.22,cents per kilowatt-hour
+852,2023-08,New Mexico,residential,14.41,cents per kilowatt-hour
+853,2023-08,New Mexico,transportation,0.0,cents per kilowatt-hour
+856,2023-08,New York,industrial,7.13,cents per kilowatt-hour
+858,2023-08,New York,residential,22.26,cents per kilowatt-hour
+859,2023-08,New York,transportation,16.34,cents per kilowatt-hour
+862,2023-08,North Carolina,industrial,7.33,cents per kilowatt-hour
+864,2023-08,North Carolina,residential,12.7,cents per kilowatt-hour
+865,2023-08,North Carolina,transportation,9.43,cents per kilowatt-hour
+868,2023-06,Delaware,residential,15.99,cents per kilowatt-hour
+869,2023-06,Delaware,transportation,0.0,cents per kilowatt-hour
+872,2023-06,District of Columbia,industrial,10.74,cents per kilowatt-hour
+874,2023-06,District of Columbia,residential,16.55,cents per kilowatt-hour
+875,2023-06,District of Columbia,transportation,9.04,cents per kilowatt-hour
+878,2023-06,Florida,industrial,9.12,cents per kilowatt-hour
+880,2023-06,Florida,residential,15.23,cents per kilowatt-hour
+881,2023-06,Florida,transportation,11.27,cents per kilowatt-hour
+884,2023-06,Georgia,industrial,6.9,cents per kilowatt-hour
+886,2023-06,Georgia,residential,14.59,cents per kilowatt-hour
+887,2023-06,Georgia,transportation,7.57,cents per kilowatt-hour
+890,2023-06,Hawaii,industrial,33.53,cents per kilowatt-hour
+892,2023-06,Hawaii,residential,41.74,cents per kilowatt-hour
+893,2023-06,Hawaii,transportation,0.0,cents per kilowatt-hour
+896,2023-06,Idaho,industrial,8.6,cents per kilowatt-hour
+898,2023-06,Idaho,residential,11.71,cents per kilowatt-hour
+899,2023-06,Idaho,transportation,0.0,cents per kilowatt-hour
+902,2023-06,Illinois,industrial,8.23,cents per kilowatt-hour
+904,2023-06,Illinois,residential,15.08,cents per kilowatt-hour
+905,2023-06,Illinois,transportation,7.14,cents per kilowatt-hour
+908,2023-06,Indiana,industrial,7.57,cents per kilowatt-hour
+910,2023-06,Indiana,residential,14.67,cents per kilowatt-hour
+911,2023-06,Indiana,transportation,11.56,cents per kilowatt-hour
+914,2023-06,Iowa,industrial,8.79,cents per kilowatt-hour
+916,2023-06,Iowa,residential,15.11,cents per kilowatt-hour
+917,2023-06,Iowa,transportation,0.0,cents per kilowatt-hour
+920,2023-06,Kansas,industrial,7.64,cents per kilowatt-hour
+922,2023-06,Kansas,residential,13.33,cents per kilowatt-hour
+923,2023-06,Kansas,transportation,0.0,cents per kilowatt-hour
+926,2023-06,Kentucky,industrial,6.26,cents per kilowatt-hour
+928,2023-06,Kentucky,residential,12.65,cents per kilowatt-hour
+929,2023-06,Kentucky,transportation,0.0,cents per kilowatt-hour
+932,2023-08,North Dakota,industrial,7.39,cents per kilowatt-hour
+934,2023-08,North Dakota,residential,12.55,cents per kilowatt-hour
+935,2023-08,North Dakota,transportation,0.0,cents per kilowatt-hour
+938,2023-08,Ohio,industrial,6.93,cents per kilowatt-hour
+940,2023-08,Ohio,residential,15.63,cents per kilowatt-hour
+941,2023-08,Ohio,transportation,6.34,cents per kilowatt-hour
+944,2023-08,Oklahoma,industrial,6.97,cents per kilowatt-hour
+946,2023-08,Oklahoma,residential,13.1,cents per kilowatt-hour
+947,2023-08,Oklahoma,transportation,0.0,cents per kilowatt-hour
+950,2023-08,Oregon,industrial,7.66,cents per kilowatt-hour
+952,2023-08,Oregon,residential,13.02,cents per kilowatt-hour
+953,2023-08,Oregon,transportation,11.4,cents per kilowatt-hour
+956,2023-08,Pennsylvania,industrial,7.54,cents per kilowatt-hour
+958,2023-08,Pennsylvania,residential,17.89,cents per kilowatt-hour
+959,2023-08,Pennsylvania,transportation,11.02,cents per kilowatt-hour
+962,2023-08,Rhode Island,industrial,18.51,cents per kilowatt-hour
+964,2023-08,Rhode Island,residential,25.54,cents per kilowatt-hour
+965,2023-08,Rhode Island,transportation,16.75,cents per kilowatt-hour
+968,2023-08,South Carolina,industrial,6.99,cents per kilowatt-hour
+970,2023-08,South Carolina,residential,13.41,cents per kilowatt-hour
+971,2023-08,South Carolina,transportation,0.0,cents per kilowatt-hour
+973,2023-10,Virginia,transportation,9.98,cents per kilowatt-hour
+976,2023-10,Washington,industrial,6.53,cents per kilowatt-hour
+978,2023-10,Washington,residential,11.33,cents per kilowatt-hour
+979,2023-10,Washington,transportation,10.12,cents per kilowatt-hour
+982,2023-10,West Virginia,industrial,7.48,cents per kilowatt-hour
+984,2023-10,West Virginia,residential,15.05,cents per kilowatt-hour
+985,2023-10,West Virginia,transportation,0.0,cents per kilowatt-hour
+988,2023-10,Wisconsin,industrial,8.42,cents per kilowatt-hour
+990,2023-10,Wisconsin,residential,17.14,cents per kilowatt-hour
+991,2023-10,Wisconsin,transportation,21.34,cents per kilowatt-hour
+994,2023-06,Louisiana,industrial,5.4,cents per kilowatt-hour
+996,2023-06,Louisiana,residential,11.25,cents per kilowatt-hour
+997,2023-06,Louisiana,transportation,11.28,cents per kilowatt-hour
+1000,2023-12,Arizona,industrial,7.86,cents per kilowatt-hour
+1002,2023-12,Arizona,residential,14.42,cents per kilowatt-hour
+1003,2023-12,Arizona,transportation,9.63,cents per kilowatt-hour
+1006,2023-12,Arkansas,industrial,6.33,cents per kilowatt-hour
+1008,2023-12,Arkansas,residential,11.54,cents per kilowatt-hour
+1009,2023-12,Arkansas,transportation,15.18,cents per kilowatt-hour
+1012,2023-12,California,industrial,17.99,cents per kilowatt-hour
+1014,2023-12,California,residential,29.12,cents per kilowatt-hour
+1015,2023-12,California,transportation,13.09,cents per kilowatt-hour
+1018,2023-12,Colorado,industrial,8.17,cents per kilowatt-hour
+1020,2023-12,Colorado,residential,14.18,cents per kilowatt-hour
+1021,2023-12,Colorado,transportation,12.39,cents per kilowatt-hour
+1024,2023-12,Connecticut,industrial,16.28,cents per kilowatt-hour
+1026,2023-12,Connecticut,residential,26.89,cents per kilowatt-hour
+1027,2023-12,Connecticut,transportation,19.57,cents per kilowatt-hour
+1030,2023-12,Delaware,industrial,7.52,cents per kilowatt-hour
+1032,2023-12,Delaware,residential,16.3,cents per kilowatt-hour
+1033,2023-12,Delaware,transportation,0.0,cents per kilowatt-hour
+1036,2023-12,District of Columbia,industrial,10.93,cents per kilowatt-hour
+1038,2023-12,District of Columbia,residential,17.82,cents per kilowatt-hour
+1039,2023-12,District of Columbia,transportation,10.57,cents per kilowatt-hour
+1042,2023-12,Florida,industrial,9.08,cents per kilowatt-hour
+1044,2023-12,Florida,residential,15.2,cents per kilowatt-hour
+1045,2023-12,Florida,transportation,11.31,cents per kilowatt-hour
+1048,2023-12,Georgia,industrial,6.23,cents per kilowatt-hour
+1050,2023-12,Georgia,residential,12.72,cents per kilowatt-hour
+1051,2023-12,Georgia,transportation,6.2,cents per kilowatt-hour
+1054,2023-12,Hawaii,industrial,35.4,cents per kilowatt-hour
+1056,2023-12,Hawaii,residential,41.6,cents per kilowatt-hour
+1057,2023-03,Texas,transportation,7.28,cents per kilowatt-hour
+1060,2023-03,Utah,industrial,6.99,cents per kilowatt-hour
+1062,2023-03,Utah,residential,10.86,cents per kilowatt-hour
+1063,2023-03,Utah,transportation,12.21,cents per kilowatt-hour
+1066,2023-03,Vermont,industrial,11.39,cents per kilowatt-hour
+1068,2023-03,Vermont,residential,20.38,cents per kilowatt-hour
+1069,2023-03,Vermont,transportation,0.0,cents per kilowatt-hour
+1072,2023-03,Virginia,industrial,9.09,cents per kilowatt-hour
+1074,2023-03,Virginia,residential,14.67,cents per kilowatt-hour
+1075,2023-03,Virginia,transportation,11.06,cents per kilowatt-hour
+1078,2023-03,Washington,industrial,6.4,cents per kilowatt-hour
+1080,2023-03,Washington,residential,10.79,cents per kilowatt-hour
+1081,2023-03,Washington,transportation,10.65,cents per kilowatt-hour
+1084,2023-03,West Virginia,industrial,7.01,cents per kilowatt-hour
+1086,2023-03,West Virginia,residential,14.23,cents per kilowatt-hour
+1087,2023-03,West Virginia,transportation,0.0,cents per kilowatt-hour
+1090,2023-03,Wisconsin,industrial,8.26,cents per kilowatt-hour
+1092,2023-03,Wisconsin,residential,16.47,cents per kilowatt-hour
+1093,2023-03,Wisconsin,transportation,16.2,cents per kilowatt-hour
+1096,2023-03,Wyoming,industrial,6.99,cents per kilowatt-hour
+1098,2023-03,Wyoming,residential,10.68,cents per kilowatt-hour
+1099,2023-03,Wyoming,transportation,0.0,cents per kilowatt-hour
+1102,2023-03,New England,industrial,16.05,cents per kilowatt-hour
+1104,2023-03,New England,residential,31.25,cents per kilowatt-hour
+1105,2023-03,New England,transportation,14.92,cents per kilowatt-hour
+1108,2023-03,Middle Atlantic,industrial,7.88,cents per kilowatt-hour
+1110,2023-03,Middle Atlantic,residential,19.09,cents per kilowatt-hour
+1111,2023-03,Middle Atlantic,transportation,13.57,cents per kilowatt-hour
+1114,2023-03,East North Central,industrial,8.08,cents per kilowatt-hour
+1116,2023-03,East North Central,residential,16.45,cents per kilowatt-hour
+1117,2023-03,East North Central,transportation,7.33,cents per kilowatt-hour
+1118,2023-10,Nebraska,industrial,7.08,cents per kilowatt-hour
+1120,2023-10,Nebraska,residential,11.67,cents per kilowatt-hour
+1121,2023-10,Nebraska,transportation,0.0,cents per kilowatt-hour
+1124,2023-10,Nevada,industrial,8.04,cents per kilowatt-hour
+1126,2023-10,Nevada,residential,14.63,cents per kilowatt-hour
+1127,2023-10,Nevada,transportation,12.48,cents per kilowatt-hour
+1130,2023-10,New Hampshire,industrial,15.28,cents per kilowatt-hour
+1132,2023-10,New Hampshire,residential,25.49,cents per kilowatt-hour
+1133,2023-10,New Hampshire,transportation,0.0,cents per kilowatt-hour
+1136,2023-10,New Jersey,industrial,11.08,cents per kilowatt-hour
+1138,2023-10,New Jersey,residential,17.46,cents per kilowatt-hour
+1139,2023-10,New Jersey,transportation,11.2,cents per kilowatt-hour
+1142,2023-10,New Mexico,industrial,5.97,cents per kilowatt-hour
+1144,2023-10,New Mexico,residential,14.12,cents per kilowatt-hour
+1145,2023-10,New Mexico,transportation,0.0,cents per kilowatt-hour
+1148,2023-10,New York,industrial,6.54,cents per kilowatt-hour
+1150,2023-10,New York,residential,21.99,cents per kilowatt-hour
+1151,2023-10,New York,transportation,15.26,cents per kilowatt-hour
+1154,2023-10,North Carolina,industrial,7.37,cents per kilowatt-hour
+1156,2023-10,North Carolina,residential,14.4,cents per kilowatt-hour
+1157,2023-10,North Carolina,transportation,10.14,cents per kilowatt-hour
+1160,2023-10,North Dakota,industrial,7.2,cents per kilowatt-hour
+1162,2023-10,North Dakota,residential,11.71,cents per kilowatt-hour
+1163,2023-10,North Dakota,transportation,0.0,cents per kilowatt-hour
+1168,2023-05,Alabama,industrial,7.11,cents per kilowatt-hour
+1170,2023-05,Alabama,residential,14.55,cents per kilowatt-hour
+1171,2023-05,Alabama,transportation,0.0,cents per kilowatt-hour
+1174,2023-05,Alaska,industrial,20.29,cents per kilowatt-hour
+1176,2023-05,Alaska,residential,24.91,cents per kilowatt-hour
+1177,2023-05,Alaska,transportation,0.0,cents per kilowatt-hour
+1179,2023-02,District of Columbia,industrial,10.95,cents per kilowatt-hour
+1181,2023-02,District of Columbia,residential,15.7,cents per kilowatt-hour
+1182,2023-02,District of Columbia,transportation,10.47,cents per kilowatt-hour
+1185,2023-02,Florida,industrial,10.26,cents per kilowatt-hour
+1187,2023-02,Florida,residential,15.82,cents per kilowatt-hour
+1188,2023-02,Florida,transportation,10.35,cents per kilowatt-hour
+1191,2023-02,Georgia,industrial,6.75,cents per kilowatt-hour
+1193,2023-02,Georgia,residential,13.53,cents per kilowatt-hour
+1196,2023-05,South Carolina,industrial,6.57,cents per kilowatt-hour
+1198,2023-05,South Carolina,residential,13.98,cents per kilowatt-hour
+1199,2023-05,South Carolina,transportation,0.0,cents per kilowatt-hour
+1202,2023-05,South Dakota,industrial,8.14,cents per kilowatt-hour
+1204,2023-05,South Dakota,residential,13.18,cents per kilowatt-hour
+1205,2023-05,South Dakota,transportation,0.0,cents per kilowatt-hour
+1208,2023-05,Tennessee,industrial,5.96,cents per kilowatt-hour
+1212,2023-03,West North Central,industrial,7.38,cents per kilowatt-hour
+1214,2023-03,West North Central,residential,12.12,cents per kilowatt-hour
+1215,2023-03,West North Central,transportation,10.31,cents per kilowatt-hour
+1218,2023-03,South Atlantic,industrial,7.28,cents per kilowatt-hour
+1220,2023-03,South Atlantic,residential,14.2,cents per kilowatt-hour
+1221,2023-03,South Atlantic,transportation,10.11,cents per kilowatt-hour
+1224,2023-03,East South Central,industrial,6.56,cents per kilowatt-hour
+1226,2023-03,East South Central,residential,13.17,cents per kilowatt-hour
+1227,2023-03,East South Central,transportation,0.0,cents per kilowatt-hour
+1230,2023-03,West South Central,industrial,6.23,cents per kilowatt-hour
+1232,2023-03,West South Central,residential,13.75,cents per kilowatt-hour
+1233,2023-03,West South Central,transportation,7.51,cents per kilowatt-hour
+1236,2023-07,Maryland,industrial,9.84,cents per kilowatt-hour
+1238,2023-07,Maryland,residential,16.02,cents per kilowatt-hour
+1239,2023-07,Maryland,transportation,11.1,cents per kilowatt-hour
+1242,2023-07,Massachusetts,industrial,17.94,cents per kilowatt-hour
+1244,2023-07,Massachusetts,residential,27.43,cents per kilowatt-hour
+1245,2023-07,Massachusetts,transportation,6.62,cents per kilowatt-hour
+1248,2023-07,Michigan,industrial,8.2,cents per kilowatt-hour
+1250,2023-07,Michigan,residential,19.43,cents per kilowatt-hour
+1251,2023-07,Michigan,transportation,14.05,cents per kilowatt-hour
+1254,2023-07,Minnesota,industrial,9.5,cents per kilowatt-hour
+1256,2023-07,Minnesota,residential,15.6,cents per kilowatt-hour
+1257,2023-07,Minnesota,transportation,13.49,cents per kilowatt-hour
+1260,2023-07,Mississippi,industrial,6.78,cents per kilowatt-hour
+1262,2023-07,Mississippi,residential,12.82,cents per kilowatt-hour
+1263,2023-07,Mississippi,transportation,0.0,cents per kilowatt-hour
+1266,2023-10,Ohio,industrial,7.02,cents per kilowatt-hour
+1268,2023-10,Ohio,residential,15.89,cents per kilowatt-hour
+1269,2023-10,Ohio,transportation,6.72,cents per kilowatt-hour
+1272,2023-11,West Virginia,industrial,7.63,cents per kilowatt-hour
+1274,2023-11,West Virginia,residential,14.42,cents per kilowatt-hour
+1275,2023-11,West Virginia,transportation,0.0,cents per kilowatt-hour
+1278,2023-11,Wisconsin,industrial,8.45,cents per kilowatt-hour
+1280,2023-11,Wisconsin,residential,16.85,cents per kilowatt-hour
+1281,2023-11,Wisconsin,transportation,15.74,cents per kilowatt-hour
+1284,2023-11,Wyoming,industrial,7.22,cents per kilowatt-hour
+1286,2023-11,Wyoming,residential,11.59,cents per kilowatt-hour
+1287,2023-11,Wyoming,transportation,0.0,cents per kilowatt-hour
+1290,2023-11,New England,industrial,15.75,cents per kilowatt-hour
+1292,2023-11,New England,residential,27.47,cents per kilowatt-hour
+1293,2023-11,New England,transportation,10.68,cents per kilowatt-hour
+1296,2023-11,Middle Atlantic,industrial,7.78,cents per kilowatt-hour
+1298,2023-11,Middle Atlantic,residential,19.76,cents per kilowatt-hour
+1299,2023-02,Georgia,transportation,5.92,cents per kilowatt-hour
+1302,2023-02,Hawaii,industrial,38.13,cents per kilowatt-hour
+1304,2023-02,Hawaii,residential,44.24,cents per kilowatt-hour
+1305,2023-02,Hawaii,transportation,0.0,cents per kilowatt-hour
+1308,2023-02,Idaho,industrial,6.01,cents per kilowatt-hour
+1310,2023-02,Idaho,residential,10.19,cents per kilowatt-hour
+1311,2023-02,Idaho,transportation,0.0,cents per kilowatt-hour
+1313,2023-08,West North Central,residential,14.21,cents per kilowatt-hour
+1314,2023-08,West North Central,transportation,12.64,cents per kilowatt-hour
+1317,2023-08,South Atlantic,industrial,8.04,cents per kilowatt-hour
+1319,2023-08,South Atlantic,residential,14.28,cents per kilowatt-hour
+1320,2023-08,South Atlantic,transportation,10.53,cents per kilowatt-hour
+1323,2023-08,East South Central,industrial,6.9,cents per kilowatt-hour
+1325,2023-08,East South Central,residential,12.79,cents per kilowatt-hour
+1326,2023-08,East South Central,transportation,0.0,cents per kilowatt-hour
+1329,2023-08,West South Central,industrial,8.26,cents per kilowatt-hour
+1331,2023-08,West South Central,residential,13.56,cents per kilowatt-hour
+1332,2023-08,West South Central,transportation,7.01,cents per kilowatt-hour
+1335,2023-08,Mountain,industrial,8.68,cents per kilowatt-hour
+1337,2023-08,Mountain,residential,13.92,cents per kilowatt-hour
+1338,2023-08,Mountain,transportation,13.11,cents per kilowatt-hour
+1341,2023-08,Pacific Contiguous,industrial,15.58,cents per kilowatt-hour
+1343,2023-08,Pacific Contiguous,residential,24.22,cents per kilowatt-hour
+1344,2023-08,Pacific Contiguous,transportation,13.51,cents per kilowatt-hour
+1347,2023-08,Pacific Noncontiguous,industrial,27.85,cents per kilowatt-hour
+1349,2023-08,Pacific Noncontiguous,residential,34.22,cents per kilowatt-hour
+1350,2023-08,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+1353,2023-08,U.S. Total,industrial,8.9,cents per kilowatt-hour
+1355,2023-08,U.S. Total,residential,15.91,cents per kilowatt-hour
+1356,2023-10,Arkansas,industrial,6.93,cents per kilowatt-hour
+1358,2023-10,Arkansas,residential,12.73,cents per kilowatt-hour
+1359,2023-10,Arkansas,transportation,13.2,cents per kilowatt-hour
+1362,2023-10,California,industrial,20.15,cents per kilowatt-hour
+1364,2023-10,California,residential,31.78,cents per kilowatt-hour
+1365,2023-10,California,transportation,14.92,cents per kilowatt-hour
+1369,2023-02,Kentucky,industrial,7.19,cents per kilowatt-hour
+1371,2023-09,Rhode Island,transportation,17.44,cents per kilowatt-hour
+1374,2023-09,South Carolina,industrial,6.94,cents per kilowatt-hour
+1376,2023-09,South Carolina,residential,14.04,cents per kilowatt-hour
+1377,2023-09,South Carolina,transportation,0.0,cents per kilowatt-hour
+1380,2023-09,South Dakota,industrial,8.18,cents per kilowatt-hour
+1382,2023-09,South Dakota,residential,13.24,cents per kilowatt-hour
+1383,2023-09,South Dakota,transportation,0.0,cents per kilowatt-hour
+1386,2023-09,Tennessee,industrial,6.18,cents per kilowatt-hour
+1388,2023-09,Tennessee,residential,11.78,cents per kilowatt-hour
+1389,2023-09,Tennessee,transportation,0.0,cents per kilowatt-hour
+1392,2023-09,Texas,industrial,7.69,cents per kilowatt-hour
+1394,2023-09,Texas,residential,14.68,cents per kilowatt-hour
+1395,2023-09,Texas,transportation,7.49,cents per kilowatt-hour
+1398,2023-09,Utah,industrial,7.1,cents per kilowatt-hour
+1400,2023-09,Utah,residential,11.85,cents per kilowatt-hour
+1401,2023-09,Utah,transportation,12.33,cents per kilowatt-hour
+1404,2023-09,Vermont,industrial,11.39,cents per kilowatt-hour
+1406,2023-09,Vermont,residential,21.21,cents per kilowatt-hour
+1407,2023-09,Vermont,transportation,0.0,cents per kilowatt-hour
+1410,2023-09,Virginia,industrial,9.12,cents per kilowatt-hour
+1412,2023-09,Virginia,residential,14.69,cents per kilowatt-hour
+1413,2023-09,Virginia,transportation,9.02,cents per kilowatt-hour
+1416,2023-09,Washington,industrial,6.4,cents per kilowatt-hour
+1418,2023-09,Washington,residential,11.38,cents per kilowatt-hour
+1421,2023-01,Tennessee,industrial,6.6,cents per kilowatt-hour
+1423,2023-01,Tennessee,residential,12.04,cents per kilowatt-hour
+1424,2023-01,Tennessee,transportation,0.0,cents per kilowatt-hour
+1427,2023-01,Texas,industrial,6.48,cents per kilowatt-hour
+1429,2023-01,Texas,residential,14.36,cents per kilowatt-hour
+1430,2023-01,Texas,transportation,7.09,cents per kilowatt-hour
+1433,2023-01,Utah,industrial,7.41,cents per kilowatt-hour
+1435,2023-01,Utah,residential,10.65,cents per kilowatt-hour
+1436,2023-01,Utah,transportation,12.41,cents per kilowatt-hour
+1439,2023-01,Vermont,industrial,11.99,cents per kilowatt-hour
+1441,2023-01,Vermont,residential,19.96,cents per kilowatt-hour
+1442,2023-01,Vermont,transportation,0.0,cents per kilowatt-hour
+1445,2023-01,Virginia,industrial,9.4,cents per kilowatt-hour
+1447,2023-01,Virginia,residential,13.96,cents per kilowatt-hour
+1448,2023-01,Virginia,transportation,12.21,cents per kilowatt-hour
+1451,2023-01,Washington,industrial,6.36,cents per kilowatt-hour
+1453,2023-01,Washington,residential,10.49,cents per kilowatt-hour
+1454,2023-01,Washington,transportation,10.06,cents per kilowatt-hour
+1457,2023-08,New England,industrial,15.7,cents per kilowatt-hour
+1459,2023-08,New England,residential,27.11,cents per kilowatt-hour
+1460,2023-08,New England,transportation,13.43,cents per kilowatt-hour
+1463,2023-08,Middle Atlantic,industrial,7.89,cents per kilowatt-hour
+1465,2023-08,Middle Atlantic,residential,19.74,cents per kilowatt-hour
+1466,2023-08,Middle Atlantic,transportation,15.18,cents per kilowatt-hour
+1469,2023-08,East North Central,industrial,8.04,cents per kilowatt-hour
+1471,2023-08,East North Central,residential,15.72,cents per kilowatt-hour
+1472,2023-08,East North Central,transportation,6.79,cents per kilowatt-hour
+1475,2023-08,West North Central,industrial,8.62,cents per kilowatt-hour
+1477,2023-02,Utah,industrial,7.01,cents per kilowatt-hour
+1479,2023-02,Utah,residential,10.79,cents per kilowatt-hour
+1480,2023-02,Utah,transportation,12.41,cents per kilowatt-hour
+1483,2023-02,Vermont,industrial,11.23,cents per kilowatt-hour
+1485,2023-02,Vermont,residential,20.28,cents per kilowatt-hour
+1486,2023-02,Vermont,transportation,0.0,cents per kilowatt-hour
+1489,2023-02,Virginia,industrial,8.83,cents per kilowatt-hour
+1491,2023-02,Virginia,residential,14.32,cents per kilowatt-hour
+1492,2023-02,Virginia,transportation,11.32,cents per kilowatt-hour
+1495,2023-08,U.S. Total,transportation,13.26,cents per kilowatt-hour
+1498,2023-09,Alabama,industrial,6.99,cents per kilowatt-hour
+1500,2023-09,Alabama,residential,14.89,cents per kilowatt-hour
+1501,2023-09,Alabama,transportation,0.0,cents per kilowatt-hour
+1503,2023-03,District of Columbia,industrial,10.59,cents per kilowatt-hour
+1505,2023-03,District of Columbia,residential,16.06,cents per kilowatt-hour
+1506,2023-03,District of Columbia,transportation,10.76,cents per kilowatt-hour
+1509,2023-03,Florida,industrial,9.81,cents per kilowatt-hour
+1511,2023-03,Florida,residential,14.65,cents per kilowatt-hour
+1512,2023-03,Florida,transportation,11.66,cents per kilowatt-hour
+1515,2023-03,Georgia,industrial,6.0,cents per kilowatt-hour
+1517,2023-03,Georgia,residential,13.49,cents per kilowatt-hour
+1518,2023-03,Georgia,transportation,6.29,cents per kilowatt-hour
+1521,2023-03,Hawaii,industrial,38.0,cents per kilowatt-hour
+1523,2023-03,Hawaii,residential,44.06,cents per kilowatt-hour
+1524,2023-03,Hawaii,transportation,0.0,cents per kilowatt-hour
+1527,2023-03,Idaho,industrial,5.98,cents per kilowatt-hour
+1529,2023-03,Idaho,residential,10.03,cents per kilowatt-hour
+1530,2023-03,Idaho,transportation,0.0,cents per kilowatt-hour
+1533,2023-03,Illinois,industrial,8.36,cents per kilowatt-hour
+1535,2023-03,Illinois,residential,17.38,cents per kilowatt-hour
+1536,2023-03,Illinois,transportation,6.87,cents per kilowatt-hour
+1539,2023-03,Indiana,industrial,9.07,cents per kilowatt-hour
+1541,2023-03,Indiana,residential,16.02,cents per kilowatt-hour
+1542,2023-03,Indiana,transportation,13.1,cents per kilowatt-hour
+1545,2023-03,Iowa,industrial,5.76,cents per kilowatt-hour
+1547,2023-03,Iowa,residential,11.99,cents per kilowatt-hour
+1548,2023-03,Iowa,transportation,0.0,cents per kilowatt-hour
+1551,2023-03,Kansas,industrial,8.16,cents per kilowatt-hour
+1553,2023-03,Kansas,residential,13.72,cents per kilowatt-hour
+1554,2023-03,Kansas,transportation,0.0,cents per kilowatt-hour
+1557,2023-03,Kentucky,industrial,6.43,cents per kilowatt-hour
+1559,2023-03,Kentucky,residential,12.28,cents per kilowatt-hour
+1560,2023-09,Washington,transportation,10.02,cents per kilowatt-hour
+1563,2023-09,West Virginia,industrial,7.29,cents per kilowatt-hour
+1565,2023-04,Arkansas,industrial,6.26,cents per kilowatt-hour
+1567,2023-04,Arkansas,residential,12.36,cents per kilowatt-hour
+1568,2023-04,Arkansas,transportation,15.83,cents per kilowatt-hour
+1571,2023-04,California,industrial,15.81,cents per kilowatt-hour
+1573,2023-04,California,residential,29.7,cents per kilowatt-hour
+1574,2023-04,California,transportation,11.51,cents per kilowatt-hour
+1577,2023-04,Colorado,industrial,8.17,cents per kilowatt-hour
+1579,2023-04,Colorado,residential,13.53,cents per kilowatt-hour
+1580,2023-04,Colorado,transportation,12.4,cents per kilowatt-hour
+1583,2023-04,Connecticut,industrial,15.46,cents per kilowatt-hour
+1585,2023-04,Connecticut,residential,34.48,cents per kilowatt-hour
+1586,2023-04,Connecticut,transportation,17.33,cents per kilowatt-hour
+1589,2023-04,Delaware,industrial,7.7,cents per kilowatt-hour
+1591,2023-04,Delaware,residential,15.47,cents per kilowatt-hour
+1592,2023-04,Delaware,transportation,0.0,cents per kilowatt-hour
+1595,2023-04,District of Columbia,industrial,11.16,cents per kilowatt-hour
+1597,2023-04,District of Columbia,residential,15.3,cents per kilowatt-hour
+1598,2023-04,District of Columbia,transportation,9.86,cents per kilowatt-hour
+1601,2023-04,Florida,industrial,9.29,cents per kilowatt-hour
+1603,2023-04,Florida,residential,15.72,cents per kilowatt-hour
+1604,2023-04,Florida,transportation,12.24,cents per kilowatt-hour
+1607,2023-04,Georgia,industrial,6.28,cents per kilowatt-hour
+1609,2023-04,Georgia,residential,13.25,cents per kilowatt-hour
+1610,2023-04,Georgia,transportation,5.82,cents per kilowatt-hour
+1613,2023-04,Hawaii,industrial,36.66,cents per kilowatt-hour
+1615,2023-04,Hawaii,residential,43.18,cents per kilowatt-hour
+1616,2023-04,Hawaii,transportation,0.0,cents per kilowatt-hour
+1619,2023-04,Idaho,industrial,6.36,cents per kilowatt-hour
+1621,2023-04,Idaho,residential,10.18,cents per kilowatt-hour
+1622,2023-03,Kentucky,transportation,0.0,cents per kilowatt-hour
+1625,2023-03,Louisiana,industrial,6.35,cents per kilowatt-hour
+1627,2023-03,Louisiana,residential,11.87,cents per kilowatt-hour
+1628,2023-03,Louisiana,transportation,11.09,cents per kilowatt-hour
+1631,2023-03,Maine,industrial,12.61,cents per kilowatt-hour
+1633,2023-03,Maine,residential,29.37,cents per kilowatt-hour
+1634,2023-03,Maine,transportation,0.0,cents per kilowatt-hour
+1637,2023-03,Maryland,industrial,9.54,cents per kilowatt-hour
+1639,2023-03,Maryland,residential,15.85,cents per kilowatt-hour
+1640,2023-03,Maryland,transportation,10.36,cents per kilowatt-hour
+1643,2023-03,Massachusetts,industrial,18.14,cents per kilowatt-hour
+1645,2023-03,Massachusetts,residential,32.72,cents per kilowatt-hour
+1646,2023-03,Massachusetts,transportation,7.27,cents per kilowatt-hour
+1649,2023-03,Michigan,industrial,8.03,cents per kilowatt-hour
+1651,2023-03,Michigan,residential,18.23,cents per kilowatt-hour
+1652,2023-03,Michigan,transportation,13.64,cents per kilowatt-hour
+1655,2023-03,Minnesota,industrial,9.09,cents per kilowatt-hour
+1657,2023-03,Minnesota,residential,13.94,cents per kilowatt-hour
+1658,2023-03,Minnesota,transportation,12.48,cents per kilowatt-hour
+1661,2023-03,Mississippi,industrial,7.07,cents per kilowatt-hour
+1663,2023-03,Mississippi,residential,13.8,cents per kilowatt-hour
+1664,2023-03,Mississippi,transportation,0.0,cents per kilowatt-hour
+1667,2023-03,Missouri,industrial,7.55,cents per kilowatt-hour
+1669,2023-03,Missouri,residential,11.46,cents per kilowatt-hour
+1670,2023-03,Missouri,transportation,8.22,cents per kilowatt-hour
+1673,2023-03,Montana,industrial,8.33,cents per kilowatt-hour
+1675,2023-03,Montana,residential,12.13,cents per kilowatt-hour
+1676,2023-03,Montana,transportation,0.0,cents per kilowatt-hour
+1678,2023-05,New York,industrial,6.87,cents per kilowatt-hour
+1680,2023-05,New York,residential,20.47,cents per kilowatt-hour
+1681,2023-05,New York,transportation,15.18,cents per kilowatt-hour
+1684,2023-05,North Carolina,industrial,6.45,cents per kilowatt-hour
+1686,2023-06,Nebraska,residential,11.98,cents per kilowatt-hour
+1687,2023-06,Nebraska,transportation,0.0,cents per kilowatt-hour
+1690,2023-06,Nevada,industrial,11.92,cents per kilowatt-hour
+1692,2023-06,Nevada,residential,17.38,cents per kilowatt-hour
+1693,2023-06,Nevada,transportation,13.16,cents per kilowatt-hour
+1696,2023-06,New Hampshire,industrial,14.77,cents per kilowatt-hour
+1698,2023-06,New Hampshire,residential,29.53,cents per kilowatt-hour
+1699,2023-06,New Hampshire,transportation,0.0,cents per kilowatt-hour
+1702,2023-06,New Jersey,industrial,13.13,cents per kilowatt-hour
+1704,2023-06,New Jersey,residential,18.19,cents per kilowatt-hour
+1705,2023-06,New Jersey,transportation,12.33,cents per kilowatt-hour
+1708,2023-06,New Mexico,industrial,5.73,cents per kilowatt-hour
+1710,2023-06,New Mexico,residential,13.58,cents per kilowatt-hour
+1711,2023-06,New Mexico,transportation,0.0,cents per kilowatt-hour
+1714,2023-06,New York,industrial,6.62,cents per kilowatt-hour
+1716,2023-06,New York,residential,21.63,cents per kilowatt-hour
+1717,2023-06,New York,transportation,15.71,cents per kilowatt-hour
+1720,2023-06,North Carolina,industrial,6.69,cents per kilowatt-hour
+1722,2023-06,North Carolina,residential,12.57,cents per kilowatt-hour
+1723,2023-06,North Carolina,transportation,9.07,cents per kilowatt-hour
+1726,2023-06,North Dakota,industrial,7.57,cents per kilowatt-hour
+1728,2023-06,North Dakota,residential,12.35,cents per kilowatt-hour
+1729,2023-06,North Dakota,transportation,0.0,cents per kilowatt-hour
+1732,2023-06,Ohio,industrial,7.08,cents per kilowatt-hour
+1734,2023-06,Ohio,residential,16.29,cents per kilowatt-hour
+1735,2023-06,Ohio,transportation,5.86,cents per kilowatt-hour
+1739,2023-03,Alabama,industrial,6.66,cents per kilowatt-hour
+1741,2023-03,Alabama,residential,14.67,cents per kilowatt-hour
+1742,2023-03,Alabama,transportation,0.0,cents per kilowatt-hour
+1745,2023-03,Alaska,industrial,19.06,cents per kilowatt-hour
+1746,2023-04,Idaho,transportation,0.0,cents per kilowatt-hour
+1749,2023-04,Illinois,industrial,8.11,cents per kilowatt-hour
+1751,2023-04,Illinois,residential,17.82,cents per kilowatt-hour
+1752,2023-04,Illinois,transportation,5.98,cents per kilowatt-hour
+1755,2023-04,Indiana,industrial,8.36,cents per kilowatt-hour
+1757,2023-04,Indiana,residential,15.08,cents per kilowatt-hour
+1758,2023-04,Indiana,transportation,13.63,cents per kilowatt-hour
+1761,2023-04,Iowa,industrial,5.86,cents per kilowatt-hour
+1763,2023-04,Iowa,residential,12.62,cents per kilowatt-hour
+1764,2023-04,Iowa,transportation,0.0,cents per kilowatt-hour
+1767,2023-04,Kansas,industrial,7.5,cents per kilowatt-hour
+1769,2023-04,Kansas,residential,13.59,cents per kilowatt-hour
+1770,2023-04,Kansas,transportation,0.0,cents per kilowatt-hour
+1774,2023-10,Colorado,industrial,8.35,cents per kilowatt-hour
+1776,2023-10,Colorado,residential,14.5,cents per kilowatt-hour
+1777,2023-10,Colorado,transportation,13.64,cents per kilowatt-hour
+1780,2023-10,Connecticut,industrial,15.95,cents per kilowatt-hour
+1782,2023-10,Connecticut,residential,29.01,cents per kilowatt-hour
+1783,2023-10,Connecticut,transportation,16.09,cents per kilowatt-hour
+1786,2023-10,Delaware,industrial,7.52,cents per kilowatt-hour
+1788,2023-10,Delaware,residential,17.43,cents per kilowatt-hour
+1789,2023-10,Delaware,transportation,0.0,cents per kilowatt-hour
+1792,2023-10,District of Columbia,industrial,11.54,cents per kilowatt-hour
+1793,2023-11,Kentucky,residential,13.29,cents per kilowatt-hour
+1794,2023-11,Kentucky,transportation,0.0,cents per kilowatt-hour
+1797,2023-11,Louisiana,industrial,5.73,cents per kilowatt-hour
+1799,2023-11,Louisiana,residential,11.45,cents per kilowatt-hour
+1800,2023-11,Louisiana,transportation,11.23,cents per kilowatt-hour
+1803,2023-11,Maine,industrial,12.96,cents per kilowatt-hour
+1805,2023-11,Maine,residential,28.46,cents per kilowatt-hour
+1806,2023-11,Maine,transportation,0.0,cents per kilowatt-hour
+1808,2023-05,North Carolina,residential,12.9,cents per kilowatt-hour
+1809,2023-05,North Carolina,transportation,8.16,cents per kilowatt-hour
+1812,2023-05,North Dakota,industrial,7.31,cents per kilowatt-hour
+1814,2023-05,North Dakota,residential,11.75,cents per kilowatt-hour
+1815,2023-05,North Dakota,transportation,0.0,cents per kilowatt-hour
+1818,2023-05,Ohio,industrial,6.94,cents per kilowatt-hour
+1820,2023-05,Ohio,residential,15.63,cents per kilowatt-hour
+1821,2023-05,Ohio,transportation,5.86,cents per kilowatt-hour
+1824,2023-05,Oklahoma,industrial,5.77,cents per kilowatt-hour
+1826,2023-05,Oklahoma,residential,11.63,cents per kilowatt-hour
+1827,2023-05,Oklahoma,transportation,0.0,cents per kilowatt-hour
+1830,2023-05,Oregon,industrial,7.01,cents per kilowatt-hour
+1832,2023-05,Oregon,residential,13.01,cents per kilowatt-hour
+1833,2023-05,Oregon,transportation,11.54,cents per kilowatt-hour
+1835,2023-07,New York,residential,22.29,cents per kilowatt-hour
+1836,2023-07,New York,transportation,15.83,cents per kilowatt-hour
+1839,2023-07,North Carolina,industrial,7.52,cents per kilowatt-hour
+1841,2023-07,North Carolina,residential,12.39,cents per kilowatt-hour
+1842,2023-07,North Carolina,transportation,9.28,cents per kilowatt-hour
+1845,2023-07,North Dakota,industrial,7.35,cents per kilowatt-hour
+1847,2023-07,North Dakota,residential,12.63,cents per kilowatt-hour
+1848,2023-07,North Dakota,transportation,0.0,cents per kilowatt-hour
+1851,2023-07,Ohio,industrial,7.2,cents per kilowatt-hour
+1853,2023-07,Ohio,residential,15.73,cents per kilowatt-hour
+1854,2023-07,Ohio,transportation,6.02,cents per kilowatt-hour
+1857,2023-07,Oklahoma,industrial,6.82,cents per kilowatt-hour
+1859,2023-07,Oklahoma,residential,12.27,cents per kilowatt-hour
+1860,2023-07,Oklahoma,transportation,0.0,cents per kilowatt-hour
+1863,2023-07,Oregon,industrial,7.56,cents per kilowatt-hour
+1865,2023-07,Oregon,residential,13.17,cents per kilowatt-hour
+1866,2023-07,Oregon,transportation,11.31,cents per kilowatt-hour
+1869,2023-07,Pennsylvania,industrial,7.67,cents per kilowatt-hour
+1873,2023-01,Wyoming,industrial,6.58,cents per kilowatt-hour
+1875,2023-01,Wyoming,residential,10.24,cents per kilowatt-hour
+1876,2023-01,Wyoming,transportation,0.0,cents per kilowatt-hour
+1879,2023-01,New England,industrial,16.6,cents per kilowatt-hour
+1881,2023-01,New England,residential,29.95,cents per kilowatt-hour
+1882,2023-01,New England,transportation,14.42,cents per kilowatt-hour
+1885,2023-01,Middle Atlantic,industrial,8.59,cents per kilowatt-hour
+1887,2023-01,Middle Atlantic,residential,19.88,cents per kilowatt-hour
+1888,2023-01,Middle Atlantic,transportation,14.23,cents per kilowatt-hour
+1891,2023-01,East North Central,industrial,8.27,cents per kilowatt-hour
+1893,2023-01,East North Central,residential,15.8,cents per kilowatt-hour
+1894,2023-01,East North Central,transportation,7.49,cents per kilowatt-hour
+1897,2023-01,West North Central,industrial,7.46,cents per kilowatt-hour
+1899,2023-01,West North Central,residential,11.34,cents per kilowatt-hour
+1900,2023-01,West North Central,transportation,8.9,cents per kilowatt-hour
+1903,2023-01,South Atlantic,industrial,7.91,cents per kilowatt-hour
+1905,2023-01,South Atlantic,residential,13.9,cents per kilowatt-hour
+1907,2023-02,Oklahoma,industrial,6.23,cents per kilowatt-hour
+1909,2023-02,Oklahoma,residential,11.34,cents per kilowatt-hour
+1910,2023-02,Oklahoma,transportation,0.0,cents per kilowatt-hour
+1913,2023-02,Oregon,industrial,7.91,cents per kilowatt-hour
+1915,2023-02,Oregon,residential,12.25,cents per kilowatt-hour
+1916,2023-02,Oregon,transportation,11.1,cents per kilowatt-hour
+1919,2023-02,Pennsylvania,industrial,8.06,cents per kilowatt-hour
+1921,2023-02,Pennsylvania,residential,18.33,cents per kilowatt-hour
+1922,2023-02,Pennsylvania,transportation,11.46,cents per kilowatt-hour
+1925,2023-02,Rhode Island,industrial,19.8,cents per kilowatt-hour
+1927,2023-02,Rhode Island,residential,29.08,cents per kilowatt-hour
+1929,2023-03,Alaska,residential,23.45,cents per kilowatt-hour
+1930,2023-03,Alaska,transportation,0.0,cents per kilowatt-hour
+1933,2023-03,Arizona,industrial,7.2,cents per kilowatt-hour
+1935,2023-03,Arizona,residential,13.62,cents per kilowatt-hour
+1936,2023-03,Arizona,transportation,8.96,cents per kilowatt-hour
+1939,2023-03,Arkansas,industrial,6.65,cents per kilowatt-hour
+1941,2023-03,Arkansas,residential,12.21,cents per kilowatt-hour
+1942,2023-03,Arkansas,transportation,11.18,cents per kilowatt-hour
+1945,2023-03,California,industrial,16.94,cents per kilowatt-hour
+1947,2023-03,California,residential,30.39,cents per kilowatt-hour
+1948,2023-03,California,transportation,11.79,cents per kilowatt-hour
+1951,2023-03,Colorado,industrial,8.45,cents per kilowatt-hour
+1953,2023-03,Colorado,residential,13.8,cents per kilowatt-hour
+1954,2023-03,Colorado,transportation,12.37,cents per kilowatt-hour
+1957,2023-03,Connecticut,industrial,15.78,cents per kilowatt-hour
+1959,2023-03,Connecticut,residential,33.06,cents per kilowatt-hour
+1960,2023-03,Connecticut,transportation,27.22,cents per kilowatt-hour
+1963,2023-03,Delaware,industrial,8.02,cents per kilowatt-hour
+1965,2023-03,Delaware,residential,15.33,cents per kilowatt-hour
+1966,2023-03,Delaware,transportation,0.0,cents per kilowatt-hour
+1969,2023-07,Pennsylvania,residential,17.94,cents per kilowatt-hour
+1970,2023-07,Pennsylvania,transportation,10.04,cents per kilowatt-hour
+1973,2023-07,Rhode Island,industrial,18.88,cents per kilowatt-hour
+1975,2023-07,Rhode Island,residential,24.31,cents per kilowatt-hour
+1976,2023-07,Rhode Island,transportation,16.73,cents per kilowatt-hour
+1979,2023-07,South Carolina,industrial,7.1,cents per kilowatt-hour
+1981,2023-07,South Carolina,residential,13.21,cents per kilowatt-hour
+1982,2023-07,South Carolina,transportation,0.0,cents per kilowatt-hour
+1985,2023-07,South Dakota,industrial,8.23,cents per kilowatt-hour
+1987,2023-07,South Dakota,residential,13.3,cents per kilowatt-hour
+1988,2023-07,South Dakota,transportation,0.0,cents per kilowatt-hour
+1991,2023-07,Tennessee,industrial,6.39,cents per kilowatt-hour
+1993,2023-07,Tennessee,residential,12.22,cents per kilowatt-hour
+1994,2023-07,Tennessee,transportation,0.0,cents per kilowatt-hour
+1997,2023-07,Texas,industrial,6.53,cents per kilowatt-hour
+1999,2023-07,Texas,residential,13.95,cents per kilowatt-hour
+2000,2023-07,Texas,transportation,7.22,cents per kilowatt-hour
+2003,2023-07,Utah,industrial,7.6,cents per kilowatt-hour
+2005,2023-07,Utah,residential,11.71,cents per kilowatt-hour
+2006,2023-07,Utah,transportation,12.31,cents per kilowatt-hour
+2008,2023-05,Tennessee,residential,12.27,cents per kilowatt-hour
+2009,2023-05,Tennessee,transportation,0.0,cents per kilowatt-hour
+2012,2023-05,Texas,industrial,5.81,cents per kilowatt-hour
+2014,2023-05,Texas,residential,14.65,cents per kilowatt-hour
+2015,2023-05,Texas,transportation,6.84,cents per kilowatt-hour
+2018,2023-05,Utah,industrial,6.26,cents per kilowatt-hour
+2020,2023-05,Utah,residential,10.84,cents per kilowatt-hour
+2021,2023-05,Utah,transportation,12.3,cents per kilowatt-hour
+2024,2023-05,Vermont,industrial,10.59,cents per kilowatt-hour
+2026,2023-05,Vermont,residential,21.03,cents per kilowatt-hour
+2027,2023-05,Vermont,transportation,0.0,cents per kilowatt-hour
+2030,2023-05,Virginia,industrial,9.04,cents per kilowatt-hour
+2032,2023-05,Virginia,residential,15.19,cents per kilowatt-hour
+2033,2023-05,Virginia,transportation,10.76,cents per kilowatt-hour
+2034,2023-02,Kentucky,residential,12.64,cents per kilowatt-hour
+2035,2023-02,Kentucky,transportation,0.0,cents per kilowatt-hour
+2038,2023-02,Louisiana,industrial,7.24,cents per kilowatt-hour
+2040,2023-02,Louisiana,residential,12.88,cents per kilowatt-hour
+2041,2023-02,Louisiana,transportation,13.22,cents per kilowatt-hour
+2044,2023-02,Maine,industrial,11.94,cents per kilowatt-hour
+2046,2023-02,Maine,residential,26.32,cents per kilowatt-hour
+2047,2023-02,Maine,transportation,0.0,cents per kilowatt-hour
+2050,2023-02,Maryland,industrial,10.29,cents per kilowatt-hour
+2052,2023-02,Maryland,residential,16.22,cents per kilowatt-hour
+2053,2023-02,Maryland,transportation,11.23,cents per kilowatt-hour
+2056,2023-02,Massachusetts,industrial,19.1,cents per kilowatt-hour
+2058,2023-02,Massachusetts,residential,32.56,cents per kilowatt-hour
+2059,2023-02,Massachusetts,transportation,8.65,cents per kilowatt-hour
+2063,2023-12,Oklahoma,industrial,5.79,cents per kilowatt-hour
+2065,2023-12,Oklahoma,residential,10.79,cents per kilowatt-hour
+2066,2023-12,Oklahoma,transportation,0.0,cents per kilowatt-hour
+2069,2023-12,Oregon,industrial,7.3,cents per kilowatt-hour
+2071,2023-12,Oregon,residential,12.61,cents per kilowatt-hour
+2072,2023-12,Oregon,transportation,11.73,cents per kilowatt-hour
+2075,2023-12,Pennsylvania,industrial,7.67,cents per kilowatt-hour
+2077,2023-12,Pennsylvania,residential,17.52,cents per kilowatt-hour
+2078,2023-12,Pennsylvania,transportation,10.71,cents per kilowatt-hour
+2081,2023-12,Rhode Island,industrial,19.83,cents per kilowatt-hour
+2083,2023-12,Rhode Island,residential,30.86,cents per kilowatt-hour
+2084,2023-12,Rhode Island,transportation,20.94,cents per kilowatt-hour
+2087,2023-12,South Carolina,industrial,6.63,cents per kilowatt-hour
+2090,2023-05,Minnesota,industrial,8.9,cents per kilowatt-hour
+2092,2023-05,Minnesota,residential,15.32,cents per kilowatt-hour
+2093,2023-05,Minnesota,transportation,12.66,cents per kilowatt-hour
+2096,2023-05,Mississippi,industrial,6.78,cents per kilowatt-hour
+2098,2023-05,Mississippi,residential,13.89,cents per kilowatt-hour
+2099,2023-05,Mississippi,transportation,0.0,cents per kilowatt-hour
+2102,2023-05,Missouri,industrial,7.52,cents per kilowatt-hour
+2104,2023-05,Missouri,residential,12.27,cents per kilowatt-hour
+2105,2023-05,Missouri,transportation,8.43,cents per kilowatt-hour
+2108,2023-05,Montana,industrial,5.14,cents per kilowatt-hour
+2110,2023-05,Montana,residential,12.79,cents per kilowatt-hour
+2111,2023-05,Montana,transportation,0.0,cents per kilowatt-hour
+2114,2023-05,Nebraska,industrial,7.44,cents per kilowatt-hour
+2116,2023-05,Nebraska,residential,11.77,cents per kilowatt-hour
+2117,2023-05,Nebraska,transportation,0.0,cents per kilowatt-hour
+2118,2023-01,Illinois,industrial,8.48,cents per kilowatt-hour
+2120,2023-01,Illinois,residential,15.99,cents per kilowatt-hour
+2121,2023-01,Illinois,transportation,7.44,cents per kilowatt-hour
+2124,2023-01,Indiana,industrial,9.27,cents per kilowatt-hour
+2126,2023-01,Indiana,residential,15.43,cents per kilowatt-hour
+2127,2023-01,Indiana,transportation,13.29,cents per kilowatt-hour
+2130,2023-01,Iowa,industrial,6.18,cents per kilowatt-hour
+2132,2023-01,Iowa,residential,11.38,cents per kilowatt-hour
+2133,2023-01,Iowa,transportation,0.0,cents per kilowatt-hour
+2136,2023-01,Kansas,industrial,8.58,cents per kilowatt-hour
+2138,2023-01,Kansas,residential,12.73,cents per kilowatt-hour
+2139,2023-01,Kansas,transportation,0.0,cents per kilowatt-hour
+2141,2023-02,Illinois,industrial,8.08,cents per kilowatt-hour
+2143,2023-02,Illinois,residential,17.03,cents per kilowatt-hour
+2144,2023-02,Illinois,transportation,7.15,cents per kilowatt-hour
+2147,2023-02,Indiana,industrial,9.56,cents per kilowatt-hour
+2149,2023-02,Indiana,residential,16.12,cents per kilowatt-hour
+2150,2023-02,Indiana,transportation,0.0,cents per kilowatt-hour
+2153,2023-02,Iowa,industrial,5.93,cents per kilowatt-hour
+2155,2023-02,Iowa,residential,11.69,cents per kilowatt-hour
+2156,2023-02,Iowa,transportation,0.0,cents per kilowatt-hour
+2159,2023-02,Kansas,industrial,8.27,cents per kilowatt-hour
+2161,2023-02,Kansas,residential,14.45,cents per kilowatt-hour
+2162,2023-02,Kansas,transportation,0.0,cents per kilowatt-hour
+2163,2023-04,Vermont,transportation,0.0,cents per kilowatt-hour
+2166,2023-04,Virginia,industrial,8.54,cents per kilowatt-hour
+2169,2023-05,Washington,industrial,5.91,cents per kilowatt-hour
+2171,2023-05,Washington,residential,11.16,cents per kilowatt-hour
+2172,2023-05,Washington,transportation,10.24,cents per kilowatt-hour
+2175,2023-05,West Virginia,industrial,7.31,cents per kilowatt-hour
+2177,2023-05,West Virginia,residential,14.6,cents per kilowatt-hour
+2178,2023-05,West Virginia,transportation,0.0,cents per kilowatt-hour
+2181,2023-05,Wisconsin,industrial,8.39,cents per kilowatt-hour
+2183,2023-05,Wisconsin,residential,17.43,cents per kilowatt-hour
+2184,2023-05,Wisconsin,transportation,16.34,cents per kilowatt-hour
+2187,2023-05,Wyoming,industrial,6.41,cents per kilowatt-hour
+2189,2023-05,Wyoming,residential,11.9,cents per kilowatt-hour
+2190,2023-05,Wyoming,transportation,0.0,cents per kilowatt-hour
+2193,2023-05,New England,industrial,15.25,cents per kilowatt-hour
+2195,2023-05,New England,residential,29.47,cents per kilowatt-hour
+2196,2023-05,New England,transportation,11.16,cents per kilowatt-hour
+2199,2023-05,Middle Atlantic,industrial,7.77,cents per kilowatt-hour
+2201,2023-05,Middle Atlantic,residential,18.96,cents per kilowatt-hour
+2202,2023-05,Middle Atlantic,transportation,14.3,cents per kilowatt-hour
+2205,2023-05,East North Central,industrial,7.82,cents per kilowatt-hour
+2207,2023-05,East North Central,residential,16.86,cents per kilowatt-hour
+2208,2023-05,East North Central,transportation,7.27,cents per kilowatt-hour
+2211,2023-05,West North Central,industrial,7.45,cents per kilowatt-hour
+2213,2023-05,West North Central,residential,13.4,cents per kilowatt-hour
+2214,2023-05,West North Central,transportation,10.3,cents per kilowatt-hour
+2217,2023-05,South Atlantic,industrial,7.2,cents per kilowatt-hour
+2219,2023-05,South Atlantic,residential,14.59,cents per kilowatt-hour
+2220,2023-05,South Atlantic,transportation,10.27,cents per kilowatt-hour
+2224,2023-06,Tennessee,residential,12.34,cents per kilowatt-hour
+2225,2023-06,Tennessee,transportation,0.0,cents per kilowatt-hour
+2228,2023-06,Texas,industrial,6.54,cents per kilowatt-hour
+2230,2023-06,Texas,residential,14.35,cents per kilowatt-hour
+2231,2023-06,Texas,transportation,6.99,cents per kilowatt-hour
+2234,2023-06,Utah,industrial,6.73,cents per kilowatt-hour
+2236,2023-06,Utah,residential,11.44,cents per kilowatt-hour
+2237,2023-06,Utah,transportation,12.37,cents per kilowatt-hour
+2240,2023-06,Vermont,industrial,11.27,cents per kilowatt-hour
+2242,2023-06,Vermont,residential,21.0,cents per kilowatt-hour
+2243,2023-06,Vermont,transportation,0.0,cents per kilowatt-hour
+2244,2023-01,Delaware,industrial,9.12,cents per kilowatt-hour
+2246,2023-01,Delaware,residential,14.25,cents per kilowatt-hour
+2247,2023-01,Delaware,transportation,0.0,cents per kilowatt-hour
+2250,2023-01,District of Columbia,industrial,10.76,cents per kilowatt-hour
+2252,2023-01,District of Columbia,residential,14.96,cents per kilowatt-hour
+2253,2023-01,District of Columbia,transportation,10.26,cents per kilowatt-hour
+2256,2023-01,Florida,industrial,10.19,cents per kilowatt-hour
+2258,2023-01,Florida,residential,14.89,cents per kilowatt-hour
+2259,2023-01,Florida,transportation,11.14,cents per kilowatt-hour
+2262,2023-01,Georgia,industrial,7.09,cents per kilowatt-hour
+2264,2023-01,Georgia,residential,12.81,cents per kilowatt-hour
+2265,2023-01,Georgia,transportation,9.28,cents per kilowatt-hour
+2268,2023-01,Hawaii,industrial,40.18,cents per kilowatt-hour
+2270,2023-01,Hawaii,residential,44.96,cents per kilowatt-hour
+2271,2023-01,Hawaii,transportation,0.0,cents per kilowatt-hour
+2274,2023-01,Idaho,industrial,6.02,cents per kilowatt-hour
+2276,2023-01,Idaho,residential,10.51,cents per kilowatt-hour
+2277,2023-01,Idaho,transportation,0.0,cents per kilowatt-hour
+2282,2023-05,Nevada,industrial,9.14,cents per kilowatt-hour
+2284,2023-05,Nevada,residential,17.43,cents per kilowatt-hour
+2285,2023-05,Nevada,transportation,13.02,cents per kilowatt-hour
+2288,2023-05,New Hampshire,industrial,15.22,cents per kilowatt-hour
+2290,2023-05,New Hampshire,residential,30.6,cents per kilowatt-hour
+2291,2023-05,New Hampshire,transportation,0.0,cents per kilowatt-hour
+2294,2023-05,New Jersey,industrial,11.2,cents per kilowatt-hour
+2296,2023-05,New Jersey,residential,17.13,cents per kilowatt-hour
+2297,2023-05,New Jersey,transportation,11.94,cents per kilowatt-hour
+2300,2023-05,New Mexico,industrial,5.69,cents per kilowatt-hour
+2302,2023-05,New Mexico,residential,12.96,cents per kilowatt-hour
+2303,2023-05,New Mexico,transportation,0.0,cents per kilowatt-hour
+2308,2023-12,Vermont,industrial,12.04,cents per kilowatt-hour
+2310,2023-12,Vermont,residential,21.09,cents per kilowatt-hour
+2311,2023-12,Vermont,transportation,0.0,cents per kilowatt-hour
+2314,2023-12,Virginia,industrial,8.49,cents per kilowatt-hour
+2316,2023-12,Virginia,residential,13.54,cents per kilowatt-hour
+2317,2023-12,Virginia,transportation,9.97,cents per kilowatt-hour
+2320,2023-12,Washington,industrial,6.1,cents per kilowatt-hour
+2322,2023-12,Washington,residential,10.98,cents per kilowatt-hour
+2323,2023-12,Washington,transportation,10.08,cents per kilowatt-hour
+2324,2023-07,East North Central,residential,16.1,cents per kilowatt-hour
+2325,2023-07,East North Central,transportation,6.91,cents per kilowatt-hour
+2328,2023-07,West North Central,industrial,8.51,cents per kilowatt-hour
+2330,2023-07,West North Central,residential,14.3,cents per kilowatt-hour
+2331,2023-07,West North Central,transportation,13.12,cents per kilowatt-hour
+2334,2023-07,South Atlantic,industrial,8.08,cents per kilowatt-hour
+2336,2023-07,South Atlantic,residential,14.23,cents per kilowatt-hour
+2337,2023-07,South Atlantic,transportation,10.22,cents per kilowatt-hour
+2341,2023-04,Virginia,residential,14.58,cents per kilowatt-hour
+2342,2023-04,Virginia,transportation,14.4,cents per kilowatt-hour
+2345,2023-04,Washington,industrial,6.6,cents per kilowatt-hour
+2347,2023-04,Washington,residential,10.95,cents per kilowatt-hour
+2348,2023-04,Washington,transportation,10.19,cents per kilowatt-hour
+2351,2023-04,West Virginia,industrial,7.24,cents per kilowatt-hour
+2353,2023-04,West Virginia,residential,14.38,cents per kilowatt-hour
+2354,2023-04,West Virginia,transportation,0.0,cents per kilowatt-hour
+2357,2023-04,Wisconsin,industrial,8.42,cents per kilowatt-hour
+2359,2023-04,Wisconsin,residential,16.98,cents per kilowatt-hour
+2360,2023-04,Wisconsin,transportation,16.93,cents per kilowatt-hour
+2363,2023-04,Wyoming,industrial,7.07,cents per kilowatt-hour
+2365,2023-04,Wyoming,residential,11.19,cents per kilowatt-hour
+2366,2023-04,Wyoming,transportation,0.0,cents per kilowatt-hour
+2369,2023-04,New England,industrial,15.19,cents per kilowatt-hour
+2371,2023-04,New England,residential,31.22,cents per kilowatt-hour
+2372,2023-04,New England,transportation,11.64,cents per kilowatt-hour
+2375,2023-04,Middle Atlantic,industrial,7.81,cents per kilowatt-hour
+2377,2023-04,Middle Atlantic,residential,18.74,cents per kilowatt-hour
+2378,2023-04,Middle Atlantic,transportation,13.59,cents per kilowatt-hour
+2381,2023-04,East North Central,industrial,7.82,cents per kilowatt-hour
+2383,2023-04,East North Central,residential,16.57,cents per kilowatt-hour
+2384,2023-04,East North Central,transportation,6.37,cents per kilowatt-hour
+2387,2023-04,West North Central,industrial,7.42,cents per kilowatt-hour
+2389,2023-04,West North Central,residential,12.65,cents per kilowatt-hour
+2390,2023-04,West North Central,transportation,9.55,cents per kilowatt-hour
+2393,2023-04,South Atlantic,industrial,7.23,cents per kilowatt-hour
+2395,2023-04,South Atlantic,residential,14.64,cents per kilowatt-hour
+2396,2023-09,Florida,residential,15.48,cents per kilowatt-hour
+2397,2023-05,East South Central,industrial,6.62,cents per kilowatt-hour
+2399,2023-05,East South Central,residential,13.26,cents per kilowatt-hour
+2400,2023-05,East South Central,transportation,0.0,cents per kilowatt-hour
+2403,2023-05,West South Central,industrial,5.83,cents per kilowatt-hour
+2405,2023-05,West South Central,residential,13.81,cents per kilowatt-hour
+2406,2023-05,West South Central,transportation,7.11,cents per kilowatt-hour
+2409,2023-05,Mountain,industrial,7.26,cents per kilowatt-hour
+2411,2023-05,Mountain,residential,13.89,cents per kilowatt-hour
+2412,2023-05,Mountain,transportation,11.61,cents per kilowatt-hour
+2415,2023-05,Pacific Contiguous,industrial,12.64,cents per kilowatt-hour
+2417,2023-05,Pacific Contiguous,residential,22.11,cents per kilowatt-hour
+2418,2023-05,Pacific Contiguous,transportation,12.86,cents per kilowatt-hour
+2421,2023-09,Alaska,industrial,16.61,cents per kilowatt-hour
+2423,2023-09,Alaska,residential,24.57,cents per kilowatt-hour
+2424,2023-09,Alaska,transportation,0.0,cents per kilowatt-hour
+2427,2023-09,Arizona,industrial,8.2,cents per kilowatt-hour
+2429,2023-09,Arizona,residential,14.38,cents per kilowatt-hour
+2430,2023-09,Arizona,transportation,10.41,cents per kilowatt-hour
+2433,2023-09,Arkansas,industrial,7.19,cents per kilowatt-hour
+2435,2023-09,Arkansas,residential,12.69,cents per kilowatt-hour
+2436,2023-09,Arkansas,transportation,15.52,cents per kilowatt-hour
+2439,2023-09,California,industrial,20.41,cents per kilowatt-hour
+2441,2023-09,California,residential,30.01,cents per kilowatt-hour
+2442,2023-09,California,transportation,15.19,cents per kilowatt-hour
+2445,2023-09,Colorado,industrial,8.95,cents per kilowatt-hour
+2447,2023-09,Colorado,residential,15.03,cents per kilowatt-hour
+2448,2023-09,Colorado,transportation,15.43,cents per kilowatt-hour
+2451,2023-09,Connecticut,industrial,16.08,cents per kilowatt-hour
+2453,2023-09,Connecticut,residential,29.31,cents per kilowatt-hour
+2454,2023-09,Connecticut,transportation,20.36,cents per kilowatt-hour
+2457,2023-08,Arizona,industrial,9.45,cents per kilowatt-hour
+2459,2023-08,Arizona,residential,13.83,cents per kilowatt-hour
+2460,2023-08,Arizona,transportation,10.38,cents per kilowatt-hour
+2463,2023-08,Arkansas,industrial,7.55,cents per kilowatt-hour
+2465,2023-08,Arkansas,residential,12.47,cents per kilowatt-hour
+2466,2023-08,Arkansas,transportation,15.52,cents per kilowatt-hour
+2470,2023-10,Oklahoma,industrial,6.05,cents per kilowatt-hour
+2473,2023-03,Nebraska,industrial,7.04,cents per kilowatt-hour
+2475,2023-03,Nebraska,residential,10.48,cents per kilowatt-hour
+2476,2023-03,Nebraska,transportation,0.0,cents per kilowatt-hour
+2479,2023-03,Nevada,industrial,9.36,cents per kilowatt-hour
+2481,2023-03,Nevada,residential,17.11,cents per kilowatt-hour
+2482,2023-03,Nevada,transportation,12.96,cents per kilowatt-hour
+2485,2023-03,New Hampshire,industrial,16.43,cents per kilowatt-hour
+2487,2023-03,New Hampshire,residential,30.25,cents per kilowatt-hour
+2488,2023-03,New Hampshire,transportation,0.0,cents per kilowatt-hour
+2491,2023-03,New Jersey,industrial,10.89,cents per kilowatt-hour
+2493,2023-03,New Jersey,residential,17.12,cents per kilowatt-hour
+2494,2023-03,New Jersey,transportation,11.38,cents per kilowatt-hour
+2497,2023-03,New Mexico,industrial,5.91,cents per kilowatt-hour
+2499,2023-03,New Mexico,residential,13.05,cents per kilowatt-hour
+2500,2023-03,New Mexico,transportation,0.0,cents per kilowatt-hour
+2503,2023-03,New York,industrial,6.89,cents per kilowatt-hour
+2505,2023-03,New York,residential,21.21,cents per kilowatt-hour
+2506,2023-03,New York,transportation,14.73,cents per kilowatt-hour
+2509,2023-03,North Carolina,industrial,6.72,cents per kilowatt-hour
+2511,2023-03,North Carolina,residential,12.67,cents per kilowatt-hour
+2512,2023-03,North Carolina,transportation,7.96,cents per kilowatt-hour
+2514,2023-07,East South Central,industrial,6.89,cents per kilowatt-hour
+2516,2023-07,East South Central,residential,13.03,cents per kilowatt-hour
+2517,2023-07,East South Central,transportation,0.0,cents per kilowatt-hour
+2520,2023-07,West South Central,industrial,6.45,cents per kilowatt-hour
+2522,2023-07,West South Central,residential,13.34,cents per kilowatt-hour
+2523,2023-07,West South Central,transportation,7.48,cents per kilowatt-hour
+2526,2023-07,Mountain,industrial,8.53,cents per kilowatt-hour
+2528,2023-07,Mountain,residential,14.03,cents per kilowatt-hour
+2529,2023-07,Mountain,transportation,13.26,cents per kilowatt-hour
+2532,2023-07,Pacific Contiguous,industrial,14.71,cents per kilowatt-hour
+2534,2023-07,Pacific Contiguous,residential,23.37,cents per kilowatt-hour
+2535,2023-07,Pacific Contiguous,transportation,12.82,cents per kilowatt-hour
+2538,2023-07,Pacific Noncontiguous,industrial,27.07,cents per kilowatt-hour
+2540,2023-07,Pacific Noncontiguous,residential,34.13,cents per kilowatt-hour
+2541,2023-07,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+2544,2023-07,U.S. Total,industrial,8.36,cents per kilowatt-hour
+2546,2023-07,U.S. Total,residential,15.86,cents per kilowatt-hour
+2547,2023-07,U.S. Total,transportation,12.77,cents per kilowatt-hour
+2550,2023-08,Alabama,industrial,7.42,cents per kilowatt-hour
+2552,2023-08,Alabama,residential,14.19,cents per kilowatt-hour
+2553,2023-08,Alabama,transportation,0.0,cents per kilowatt-hour
+2556,2023-08,Alaska,industrial,17.6,cents per kilowatt-hour
+2558,2023-05,Pennsylvania,industrial,7.62,cents per kilowatt-hour
+2560,2023-05,Pennsylvania,residential,18.46,cents per kilowatt-hour
+2561,2023-05,Pennsylvania,transportation,9.3,cents per kilowatt-hour
+2564,2023-05,Rhode Island,industrial,17.97,cents per kilowatt-hour
+2566,2023-05,Rhode Island,residential,26.84,cents per kilowatt-hour
+2567,2023-05,Rhode Island,transportation,16.88,cents per kilowatt-hour
+2568,2023-09,Florida,transportation,11.69,cents per kilowatt-hour
+2571,2023-09,Georgia,industrial,7.08,cents per kilowatt-hour
+2573,2023-09,Georgia,residential,13.97,cents per kilowatt-hour
+2574,2023-09,Georgia,transportation,9.4,cents per kilowatt-hour
+2577,2023-09,Hawaii,industrial,32.77,cents per kilowatt-hour
+2579,2023-09,Hawaii,residential,41.52,cents per kilowatt-hour
+2580,2023-09,Hawaii,transportation,0.0,cents per kilowatt-hour
+2583,2023-09,Idaho,industrial,7.59,cents per kilowatt-hour
+2585,2023-09,Idaho,residential,11.53,cents per kilowatt-hour
+2586,2023-09,Idaho,transportation,0.0,cents per kilowatt-hour
+2589,2023-09,Illinois,industrial,8.03,cents per kilowatt-hour
+2591,2023-09,Illinois,residential,14.7,cents per kilowatt-hour
+2592,2023-09,Illinois,transportation,7.0,cents per kilowatt-hour
+2594,2023-02,Washington,industrial,6.46,cents per kilowatt-hour
+2596,2023-02,Washington,residential,10.71,cents per kilowatt-hour
+2597,2023-02,Washington,transportation,10.54,cents per kilowatt-hour
+2600,2023-02,West Virginia,industrial,7.47,cents per kilowatt-hour
+2602,2023-02,West Virginia,residential,13.55,cents per kilowatt-hour
+2603,2023-02,West Virginia,transportation,0.0,cents per kilowatt-hour
+2606,2023-02,Wisconsin,industrial,8.35,cents per kilowatt-hour
+2608,2023-02,Wisconsin,residential,16.33,cents per kilowatt-hour
+2609,2023-02,Wisconsin,transportation,16.41,cents per kilowatt-hour
+2612,2023-02,Wyoming,industrial,6.91,cents per kilowatt-hour
+2614,2023-02,Wyoming,residential,10.26,cents per kilowatt-hour
+2615,2023-02,Wyoming,transportation,0.0,cents per kilowatt-hour
+2618,2023-02,New England,industrial,16.42,cents per kilowatt-hour
+2620,2023-02,New England,residential,31.26,cents per kilowatt-hour
+2621,2023-02,New England,transportation,19.09,cents per kilowatt-hour
+2624,2023-02,Middle Atlantic,industrial,8.15,cents per kilowatt-hour
+2626,2023-02,Middle Atlantic,residential,20.26,cents per kilowatt-hour
+2627,2023-02,Middle Atlantic,transportation,14.84,cents per kilowatt-hour
+2629,2023-06,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+2632,2023-06,U.S. Total,industrial,8.11,cents per kilowatt-hour
+2634,2023-06,U.S. Total,residential,16.09,cents per kilowatt-hour
+2635,2023-06,U.S. Total,transportation,12.41,cents per kilowatt-hour
+2636,2023-03,Oklahoma,industrial,6.0,cents per kilowatt-hour
+2638,2023-03,Oklahoma,residential,11.71,cents per kilowatt-hour
+2639,2023-03,Oklahoma,transportation,0.0,cents per kilowatt-hour
+2642,2023-03,Oregon,industrial,7.48,cents per kilowatt-hour
+2644,2023-03,Oregon,residential,12.22,cents per kilowatt-hour
+2645,2023-03,Oregon,transportation,11.43,cents per kilowatt-hour
+2646,2023-02,Michigan,industrial,8.21,cents per kilowatt-hour
+2648,2023-02,Michigan,residential,17.99,cents per kilowatt-hour
+2649,2023-02,Michigan,transportation,12.67,cents per kilowatt-hour
+2652,2023-02,Minnesota,industrial,8.97,cents per kilowatt-hour
+2654,2023-02,Minnesota,residential,13.63,cents per kilowatt-hour
+2655,2023-02,Minnesota,transportation,11.88,cents per kilowatt-hour
+2658,2023-02,Mississippi,industrial,7.45,cents per kilowatt-hour
+2660,2023-02,Mississippi,residential,13.57,cents per kilowatt-hour
+2661,2023-02,Mississippi,transportation,0.0,cents per kilowatt-hour
+2664,2023-02,Missouri,industrial,7.76,cents per kilowatt-hour
+2666,2023-02,Missouri,residential,11.36,cents per kilowatt-hour
+2667,2023-02,Missouri,transportation,7.74,cents per kilowatt-hour
+2670,2023-02,Montana,industrial,8.19,cents per kilowatt-hour
+2672,2023-02,Montana,residential,11.96,cents per kilowatt-hour
+2673,2023-02,Montana,transportation,0.0,cents per kilowatt-hour
+2676,2023-02,Nebraska,industrial,7.05,cents per kilowatt-hour
+2678,2023-02,Nebraska,residential,10.16,cents per kilowatt-hour
+2679,2023-02,Nebraska,transportation,0.0,cents per kilowatt-hour
+2682,2023-02,Nevada,industrial,9.56,cents per kilowatt-hour
+2684,2023-02,Nevada,residential,17.04,cents per kilowatt-hour
+2685,2023-02,Nevada,transportation,13.21,cents per kilowatt-hour
+2688,2023-02,New Hampshire,industrial,17.23,cents per kilowatt-hour
+2690,2023-02,New Hampshire,residential,30.98,cents per kilowatt-hour
+2691,2023-02,New Hampshire,transportation,0.0,cents per kilowatt-hour
+2694,2023-02,New Jersey,industrial,11.7,cents per kilowatt-hour
+2696,2023-02,New Jersey,residential,16.97,cents per kilowatt-hour
+2697,2023-02,New Jersey,transportation,12.64,cents per kilowatt-hour
+2700,2023-02,New Mexico,industrial,6.07,cents per kilowatt-hour
+2702,2023-02,New Mexico,residential,13.75,cents per kilowatt-hour
+2703,2023-02,New Mexico,transportation,0.0,cents per kilowatt-hour
+2706,2023-02,New York,industrial,7.06,cents per kilowatt-hour
+2708,2023-02,New York,residential,24.18,cents per kilowatt-hour
+2709,2023-02,New York,transportation,15.75,cents per kilowatt-hour
+2710,2023-11,New Mexico,industrial,6.07,cents per kilowatt-hour
+2712,2023-11,New Mexico,residential,14.2,cents per kilowatt-hour
+2713,2023-11,New Mexico,transportation,0.0,cents per kilowatt-hour
+2716,2023-11,New York,industrial,6.66,cents per kilowatt-hour
+2718,2023-11,New York,residential,22.85,cents per kilowatt-hour
+2719,2023-11,New York,transportation,15.78,cents per kilowatt-hour
+2722,2023-11,North Carolina,industrial,7.02,cents per kilowatt-hour
+2724,2023-11,North Carolina,residential,13.39,cents per kilowatt-hour
+2725,2023-11,North Carolina,transportation,9.27,cents per kilowatt-hour
+2728,2023-11,North Dakota,industrial,7.34,cents per kilowatt-hour
+2730,2023-11,North Dakota,residential,10.77,cents per kilowatt-hour
+2731,2023-11,North Dakota,transportation,0.0,cents per kilowatt-hour
+2734,2023-11,Ohio,industrial,6.83,cents per kilowatt-hour
+2736,2023-11,Ohio,residential,15.65,cents per kilowatt-hour
+2737,2023-11,Ohio,transportation,6.15,cents per kilowatt-hour
+2740,2023-11,Oklahoma,industrial,6.04,cents per kilowatt-hour
+2742,2023-11,Oklahoma,residential,11.88,cents per kilowatt-hour
+2743,2023-11,Oklahoma,transportation,0.0,cents per kilowatt-hour
+2746,2023-11,Oregon,industrial,7.34,cents per kilowatt-hour
+2748,2023-11,Oregon,residential,12.99,cents per kilowatt-hour
+2749,2023-11,Oregon,transportation,11.51,cents per kilowatt-hour
+2752,2023-11,Pennsylvania,industrial,7.75,cents per kilowatt-hour
+2754,2023-11,Pennsylvania,residential,18.11,cents per kilowatt-hour
+2755,2023-11,Pennsylvania,transportation,10.08,cents per kilowatt-hour
+2759,2023-02,East North Central,industrial,8.31,cents per kilowatt-hour
+2761,2023-02,East North Central,residential,16.28,cents per kilowatt-hour
+2762,2023-02,East North Central,transportation,7.08,cents per kilowatt-hour
+2765,2023-02,West North Central,industrial,7.46,cents per kilowatt-hour
+2767,2023-02,West North Central,residential,12.03,cents per kilowatt-hour
+2768,2023-02,West North Central,transportation,9.72,cents per kilowatt-hour
+2771,2023-02,South Atlantic,industrial,7.64,cents per kilowatt-hour
+2773,2023-02,South Atlantic,residential,14.56,cents per kilowatt-hour
+2774,2023-02,South Atlantic,transportation,10.24,cents per kilowatt-hour
+2777,2023-02,East South Central,industrial,7.11,cents per kilowatt-hour
+2779,2023-02,East South Central,residential,13.39,cents per kilowatt-hour
+2780,2023-02,East South Central,transportation,0.0,cents per kilowatt-hour
+2785,2023-03,Pennsylvania,industrial,7.77,cents per kilowatt-hour
+2787,2023-03,Pennsylvania,residential,18.13,cents per kilowatt-hour
+2788,2023-03,Pennsylvania,transportation,9.36,cents per kilowatt-hour
+2791,2023-03,Rhode Island,industrial,18.78,cents per kilowatt-hour
+2793,2023-03,Rhode Island,residential,27.91,cents per kilowatt-hour
+2794,2023-03,Rhode Island,transportation,16.1,cents per kilowatt-hour
+2798,2023-12,Montana,industrial,7.04,cents per kilowatt-hour
+2800,2023-12,Montana,residential,12.58,cents per kilowatt-hour
+2801,2023-12,Montana,transportation,0.0,cents per kilowatt-hour
+2804,2023-12,Nebraska,industrial,7.32,cents per kilowatt-hour
+2806,2023-12,Nebraska,residential,10.47,cents per kilowatt-hour
+2807,2023-12,Nebraska,transportation,0.0,cents per kilowatt-hour
+2810,2023-12,Nevada,industrial,8.14,cents per kilowatt-hour
+2812,2023-12,Nevada,residential,15.55,cents per kilowatt-hour
+2813,2023-12,Nevada,transportation,12.1,cents per kilowatt-hour
+2816,2023-12,New Hampshire,industrial,16.44,cents per kilowatt-hour
+2818,2023-12,New Hampshire,residential,24.74,cents per kilowatt-hour
+2819,2023-12,New Hampshire,transportation,0.0,cents per kilowatt-hour
+2822,2023-12,New Jersey,industrial,12.03,cents per kilowatt-hour
+2824,2023-12,New Jersey,residential,17.56,cents per kilowatt-hour
+2825,2023-12,New Jersey,transportation,11.66,cents per kilowatt-hour
+2828,2023-12,New Mexico,industrial,5.28,cents per kilowatt-hour
+2830,2023-12,New Mexico,residential,13.37,cents per kilowatt-hour
+2831,2023-12,New Mexico,transportation,0.0,cents per kilowatt-hour
+2834,2023-12,New York,industrial,6.34,cents per kilowatt-hour
+2836,2023-12,New York,residential,22.42,cents per kilowatt-hour
+2837,2023-12,New York,transportation,14.38,cents per kilowatt-hour
+2840,2023-12,North Carolina,industrial,8.0,cents per kilowatt-hour
+2842,2023-12,North Carolina,residential,12.97,cents per kilowatt-hour
+2843,2023-12,North Carolina,transportation,9.33,cents per kilowatt-hour
+2848,2023-09,Mississippi,industrial,6.96,cents per kilowatt-hour
+2850,2023-09,Mississippi,residential,12.85,cents per kilowatt-hour
+2851,2023-09,Mississippi,transportation,0.0,cents per kilowatt-hour
+2854,2023-09,Missouri,industrial,8.59,cents per kilowatt-hour
+2856,2023-09,Missouri,residential,14.03,cents per kilowatt-hour
+2857,2023-09,Missouri,transportation,13.31,cents per kilowatt-hour
+2860,2023-09,Montana,industrial,6.93,cents per kilowatt-hour
+2862,2023-09,Montana,residential,13.15,cents per kilowatt-hour
+2863,2023-09,Montana,transportation,0.0,cents per kilowatt-hour
+2866,2023-09,Nebraska,industrial,7.94,cents per kilowatt-hour
+2868,2023-09,Nebraska,residential,12.32,cents per kilowatt-hour
+2869,2023-09,Nebraska,transportation,0.0,cents per kilowatt-hour
+2872,2023-09,Nevada,industrial,12.28,cents per kilowatt-hour
+2874,2023-09,Nevada,residential,16.94,cents per kilowatt-hour
+2875,2023-09,Nevada,transportation,13.01,cents per kilowatt-hour
+2878,2023-09,New Hampshire,industrial,15.32,cents per kilowatt-hour
+2880,2023-09,New Hampshire,residential,23.24,cents per kilowatt-hour
+2881,2023-09,New Hampshire,transportation,0.0,cents per kilowatt-hour
+2884,2023-09,New Jersey,industrial,12.14,cents per kilowatt-hour
+2886,2023-09,New Jersey,residential,17.97,cents per kilowatt-hour
+2887,2023-09,New Jersey,transportation,11.86,cents per kilowatt-hour
+2890,2023-09,New Mexico,industrial,6.11,cents per kilowatt-hour
+2892,2023-09,New Mexico,residential,14.88,cents per kilowatt-hour
+2893,2023-09,New Mexico,transportation,0.0,cents per kilowatt-hour
+2896,2023-09,New York,industrial,6.98,cents per kilowatt-hour
+2898,2023-09,New York,residential,23.24,cents per kilowatt-hour
+2899,2023-09,New York,transportation,19.09,cents per kilowatt-hour
+2902,2023-09,North Carolina,industrial,7.85,cents per kilowatt-hour
+2904,2023-09,North Carolina,residential,13.72,cents per kilowatt-hour
+2905,2023-09,North Carolina,transportation,10.12,cents per kilowatt-hour
+2908,2023-09,North Dakota,industrial,7.35,cents per kilowatt-hour
+2910,2023-10,District of Columbia,residential,18.03,cents per kilowatt-hour
+2911,2023-10,District of Columbia,transportation,10.51,cents per kilowatt-hour
+2914,2023-10,Florida,industrial,9.16,cents per kilowatt-hour
+2916,2023-10,Florida,residential,15.45,cents per kilowatt-hour
+2917,2023-10,Florida,transportation,11.45,cents per kilowatt-hour
+2920,2023-10,Georgia,industrial,6.28,cents per kilowatt-hour
+2922,2023-10,Georgia,residential,13.69,cents per kilowatt-hour
+2923,2023-10,Georgia,transportation,6.13,cents per kilowatt-hour
+2926,2023-10,Hawaii,industrial,35.13,cents per kilowatt-hour
+2928,2023-10,Hawaii,residential,42.68,cents per kilowatt-hour
+2929,2023-10,Hawaii,transportation,0.0,cents per kilowatt-hour
+2932,2023-10,Idaho,industrial,6.75,cents per kilowatt-hour
+2934,2023-10,Idaho,residential,12.07,cents per kilowatt-hour
+2935,2023-10,Idaho,transportation,0.0,cents per kilowatt-hour
+2938,2023-10,Illinois,industrial,8.25,cents per kilowatt-hour
+2940,2023-10,Illinois,residential,15.75,cents per kilowatt-hour
+2941,2023-10,Illinois,transportation,7.14,cents per kilowatt-hour
+2944,2023-10,Indiana,industrial,7.93,cents per kilowatt-hour
+2946,2023-10,Indiana,residential,15.17,cents per kilowatt-hour
+2947,2023-10,Indiana,transportation,13.29,cents per kilowatt-hour
+2950,2023-10,Iowa,industrial,6.15,cents per kilowatt-hour
+2952,2023-10,Iowa,residential,13.46,cents per kilowatt-hour
+2953,2023-10,Iowa,transportation,0.0,cents per kilowatt-hour
+2956,2023-10,Kansas,industrial,7.29,cents per kilowatt-hour
+2958,2023-10,Kansas,residential,13.45,cents per kilowatt-hour
+2959,2023-10,Kansas,transportation,0.0,cents per kilowatt-hour
+2960,2023-12,North Dakota,industrial,7.19,cents per kilowatt-hour
+2962,2023-12,North Dakota,residential,10.27,cents per kilowatt-hour
+2963,2023-12,North Dakota,transportation,0.0,cents per kilowatt-hour
+2966,2023-12,Ohio,industrial,6.71,cents per kilowatt-hour
+2968,2023-12,Ohio,residential,15.57,cents per kilowatt-hour
+2969,2023-12,Ohio,transportation,6.14,cents per kilowatt-hour
+2971,2023-04,South Atlantic,transportation,10.11,cents per kilowatt-hour
+2974,2023-04,East South Central,industrial,6.29,cents per kilowatt-hour
+2976,2023-04,East South Central,residential,13.06,cents per kilowatt-hour
+2977,2023-04,East South Central,transportation,0.0,cents per kilowatt-hour
+2980,2023-04,West South Central,industrial,5.63,cents per kilowatt-hour
+2982,2023-04,West South Central,residential,13.56,cents per kilowatt-hour
+2983,2023-04,West South Central,transportation,7.37,cents per kilowatt-hour
+2986,2023-04,Mountain,industrial,7.5,cents per kilowatt-hour
+2988,2023-04,Mountain,residential,13.38,cents per kilowatt-hour
+2989,2023-04,Mountain,transportation,12.16,cents per kilowatt-hour
+2992,2023-04,Pacific Contiguous,industrial,11.74,cents per kilowatt-hour
+2994,2023-04,Pacific Contiguous,residential,21.33,cents per kilowatt-hour
+2995,2023-04,Pacific Contiguous,transportation,11.37,cents per kilowatt-hour
+2998,2023-04,Pacific Noncontiguous,industrial,31.47,cents per kilowatt-hour
+3000,2023-04,Pacific Noncontiguous,residential,34.5,cents per kilowatt-hour
+3001,2023-04,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+3004,2023-04,U.S. Total,industrial,7.51,cents per kilowatt-hour
+3006,2023-04,U.S. Total,residential,16.1,cents per kilowatt-hour
+3007,2023-04,U.S. Total,transportation,12.05,cents per kilowatt-hour
+3008,2023-07,Louisiana,industrial,5.44,cents per kilowatt-hour
+3010,2023-07,Louisiana,residential,11.26,cents per kilowatt-hour
+3011,2023-07,Louisiana,transportation,10.91,cents per kilowatt-hour
+3014,2023-03,North Dakota,industrial,7.42,cents per kilowatt-hour
+3016,2023-03,North Dakota,residential,9.75,cents per kilowatt-hour
+3017,2023-03,North Dakota,transportation,0.0,cents per kilowatt-hour
+3020,2023-03,Ohio,industrial,6.99,cents per kilowatt-hour
+3022,2023-03,Ohio,residential,14.89,cents per kilowatt-hour
+3023,2023-03,Ohio,transportation,5.63,cents per kilowatt-hour
+3027,2023-06,Oklahoma,industrial,6.64,cents per kilowatt-hour
+3029,2023-06,Oklahoma,residential,12.43,cents per kilowatt-hour
+3030,2023-06,Oklahoma,transportation,0.0,cents per kilowatt-hour
+3033,2023-06,Oregon,industrial,7.18,cents per kilowatt-hour
+3035,2023-06,Oregon,residential,13.14,cents per kilowatt-hour
+3036,2023-06,Oregon,transportation,11.36,cents per kilowatt-hour
+3039,2023-06,Pennsylvania,industrial,7.56,cents per kilowatt-hour
+3041,2023-06,Pennsylvania,residential,18.39,cents per kilowatt-hour
+3042,2023-06,Pennsylvania,transportation,9.04,cents per kilowatt-hour
+3045,2023-06,Rhode Island,industrial,17.91,cents per kilowatt-hour
+3047,2023-06,Rhode Island,residential,23.83,cents per kilowatt-hour
+3048,2023-06,Rhode Island,transportation,17.72,cents per kilowatt-hour
+3051,2023-06,South Carolina,industrial,6.66,cents per kilowatt-hour
+3053,2023-06,South Carolina,residential,13.75,cents per kilowatt-hour
+3054,2023-06,South Carolina,transportation,0.0,cents per kilowatt-hour
+3057,2023-06,South Dakota,industrial,7.96,cents per kilowatt-hour
+3059,2023-06,South Dakota,residential,13.3,cents per kilowatt-hour
+3060,2023-06,South Dakota,transportation,0.0,cents per kilowatt-hour
+3063,2023-06,Tennessee,industrial,6.26,cents per kilowatt-hour
+3066,2023-03,Mountain,industrial,7.46,cents per kilowatt-hour
+3068,2023-03,Mountain,residential,13.04,cents per kilowatt-hour
+3069,2023-03,Mountain,transportation,12.14,cents per kilowatt-hour
+3073,2023-09,North Dakota,residential,12.83,cents per kilowatt-hour
+3074,2023-09,North Dakota,transportation,0.0,cents per kilowatt-hour
+3078,2023-10,Kentucky,industrial,6.43,cents per kilowatt-hour
+3080,2023-10,Kentucky,residential,13.17,cents per kilowatt-hour
+3081,2023-10,Kentucky,transportation,0.0,cents per kilowatt-hour
+3084,2023-10,Louisiana,industrial,5.8,cents per kilowatt-hour
+3086,2023-10,Louisiana,residential,11.95,cents per kilowatt-hour
+3087,2023-10,Louisiana,transportation,10.61,cents per kilowatt-hour
+3090,2023-10,Maine,industrial,13.15,cents per kilowatt-hour
+3092,2023-10,Maine,residential,29.06,cents per kilowatt-hour
+3093,2023-10,Maine,transportation,0.0,cents per kilowatt-hour
+3096,2023-10,Maryland,industrial,10.29,cents per kilowatt-hour
+3098,2023-10,Maryland,residential,18.38,cents per kilowatt-hour
+3099,2023-10,Maryland,transportation,11.55,cents per kilowatt-hour
+3102,2023-10,Massachusetts,industrial,17.47,cents per kilowatt-hour
+3104,2023-10,Massachusetts,residential,28.19,cents per kilowatt-hour
+3105,2023-10,Massachusetts,transportation,6.65,cents per kilowatt-hour
+3108,2023-10,Michigan,industrial,8.26,cents per kilowatt-hour
+3110,2023-10,Michigan,residential,19.2,cents per kilowatt-hour
+3111,2023-10,Michigan,transportation,14.43,cents per kilowatt-hour
+3114,2023-10,Minnesota,industrial,9.31,cents per kilowatt-hour
+3116,2023-10,Minnesota,residential,15.45,cents per kilowatt-hour
+3117,2023-10,Minnesota,transportation,12.4,cents per kilowatt-hour
+3120,2023-10,Mississippi,industrial,6.92,cents per kilowatt-hour
+3122,2023-10,Mississippi,residential,13.47,cents per kilowatt-hour
+3123,2023-10,Mississippi,transportation,0.0,cents per kilowatt-hour
+3126,2023-10,Missouri,industrial,7.4,cents per kilowatt-hour
+3128,2023-10,Missouri,residential,12.2,cents per kilowatt-hour
+3129,2023-10,Missouri,transportation,12.48,cents per kilowatt-hour
+3132,2023-10,Montana,industrial,8.34,cents per kilowatt-hour
+3134,2023-10,Montana,residential,12.93,cents per kilowatt-hour
+3135,2023-10,Montana,transportation,0.0,cents per kilowatt-hour
+3140,2023-07,Maine,industrial,12.16,cents per kilowatt-hour
+3142,2023-07,Maine,residential,27.73,cents per kilowatt-hour
+3143,2023-07,Maine,transportation,0.0,cents per kilowatt-hour
+3145,2023-07,Vermont,industrial,11.04,cents per kilowatt-hour
+3147,2023-07,Vermont,residential,20.45,cents per kilowatt-hour
+3148,2023-07,Vermont,transportation,0.0,cents per kilowatt-hour
+3151,2023-07,Virginia,industrial,9.39,cents per kilowatt-hour
+3153,2023-07,Virginia,residential,13.88,cents per kilowatt-hour
+3154,2023-07,Virginia,transportation,10.91,cents per kilowatt-hour
+3157,2023-07,Washington,industrial,6.36,cents per kilowatt-hour
+3159,2023-07,Washington,residential,11.15,cents per kilowatt-hour
+3160,2023-07,Washington,transportation,9.89,cents per kilowatt-hour
+3163,2023-07,West Virginia,industrial,7.27,cents per kilowatt-hour
+3165,2023-07,West Virginia,residential,14.08,cents per kilowatt-hour
+3166,2023-07,West Virginia,transportation,0.0,cents per kilowatt-hour
+3169,2023-07,Wisconsin,industrial,9.29,cents per kilowatt-hour
+3171,2023-07,Wisconsin,residential,17.02,cents per kilowatt-hour
+3172,2023-07,Wisconsin,transportation,16.5,cents per kilowatt-hour
+3175,2023-07,Wyoming,industrial,7.04,cents per kilowatt-hour
+3177,2023-07,Wyoming,residential,12.49,cents per kilowatt-hour
+3178,2023-07,Wyoming,transportation,0.0,cents per kilowatt-hour
+3181,2023-07,New England,industrial,15.83,cents per kilowatt-hour
+3183,2023-07,New England,residential,26.84,cents per kilowatt-hour
+3184,2023-07,New England,transportation,12.52,cents per kilowatt-hour
+3187,2023-07,Middle Atlantic,industrial,7.96,cents per kilowatt-hour
+3189,2023-07,Middle Atlantic,residential,19.7,cents per kilowatt-hour
+3190,2023-07,Middle Atlantic,transportation,14.73,cents per kilowatt-hour
+3193,2023-07,East North Central,industrial,7.95,cents per kilowatt-hour
+3195,2023-09,West Virginia,residential,14.35,cents per kilowatt-hour
+3196,2023-09,West Virginia,transportation,0.0,cents per kilowatt-hour
+3199,2023-09,Wisconsin,industrial,9.2,cents per kilowatt-hour
+3203,2023-02,North Carolina,industrial,6.93,cents per kilowatt-hour
+3205,2023-02,North Carolina,residential,12.75,cents per kilowatt-hour
+3206,2023-02,North Carolina,transportation,7.81,cents per kilowatt-hour
+3209,2023-02,North Dakota,industrial,7.58,cents per kilowatt-hour
+3211,2023-02,North Dakota,residential,10.01,cents per kilowatt-hour
+3212,2023-02,North Dakota,transportation,0.0,cents per kilowatt-hour
+3215,2023-02,Ohio,industrial,7.46,cents per kilowatt-hour
+3217,2023-02,Ohio,residential,14.62,cents per kilowatt-hour
+3218,2023-02,Ohio,transportation,5.31,cents per kilowatt-hour
+3221,2023-01,Kentucky,industrial,7.19,cents per kilowatt-hour
+3223,2023-01,Kentucky,residential,12.83,cents per kilowatt-hour
+3224,2023-01,Kentucky,transportation,0.0,cents per kilowatt-hour
+3227,2023-01,Louisiana,industrial,7.16,cents per kilowatt-hour
+3229,2023-01,Louisiana,residential,11.98,cents per kilowatt-hour
+3230,2023-01,Louisiana,transportation,9.77,cents per kilowatt-hour
+3233,2023-01,Maine,industrial,11.98,cents per kilowatt-hour
+3235,2023-01,Maine,residential,24.08,cents per kilowatt-hour
+3236,2023-01,Maine,transportation,0.0,cents per kilowatt-hour
+3239,2023-01,Maryland,industrial,10.37,cents per kilowatt-hour
+3241,2023-01,Maryland,residential,15.98,cents per kilowatt-hour
+3242,2023-01,Maryland,transportation,10.79,cents per kilowatt-hour
+3245,2023-01,Massachusetts,industrial,18.94,cents per kilowatt-hour
+3247,2023-01,Massachusetts,residential,32.19,cents per kilowatt-hour
+3248,2023-01,Massachusetts,transportation,7.2,cents per kilowatt-hour
+3251,2023-01,Michigan,industrial,8.04,cents per kilowatt-hour
+3253,2023-01,Michigan,residential,18.16,cents per kilowatt-hour
+3254,2023-01,Michigan,transportation,12.07,cents per kilowatt-hour
+3257,2023-01,Minnesota,industrial,8.72,cents per kilowatt-hour
+3259,2023-01,Minnesota,residential,13.25,cents per kilowatt-hour
+3260,2023-01,Minnesota,transportation,11.07,cents per kilowatt-hour
+3263,2023-01,Mississippi,industrial,7.45,cents per kilowatt-hour
+3265,2023-01,Mississippi,residential,12.98,cents per kilowatt-hour
+3266,2023-01,Mississippi,transportation,0.0,cents per kilowatt-hour
+3269,2023-01,Missouri,industrial,7.39,cents per kilowatt-hour
+3271,2023-01,Missouri,residential,10.54,cents per kilowatt-hour
+3272,2023-01,Missouri,transportation,7.14,cents per kilowatt-hour
+3275,2023-01,Montana,industrial,10.47,cents per kilowatt-hour
+3277,2023-01,Montana,residential,11.89,cents per kilowatt-hour
+3278,2023-01,Montana,transportation,0.0,cents per kilowatt-hour
+3281,2023-01,Nebraska,industrial,7.13,cents per kilowatt-hour
+3283,2023-01,Nebraska,residential,9.27,cents per kilowatt-hour
+3284,2023-09,Wisconsin,residential,17.41,cents per kilowatt-hour
+3285,2023-09,Wisconsin,transportation,19.26,cents per kilowatt-hour
+3288,2023-09,Wyoming,industrial,7.47,cents per kilowatt-hour
+3290,2023-09,Wyoming,residential,12.64,cents per kilowatt-hour
+3291,2023-09,Wyoming,transportation,0.0,cents per kilowatt-hour
+3294,2023-09,New England,industrial,15.72,cents per kilowatt-hour
+3296,2023-09,New England,residential,27.37,cents per kilowatt-hour
+3297,2023-09,New England,transportation,12.49,cents per kilowatt-hour
+3300,2023-09,Middle Atlantic,industrial,7.76,cents per kilowatt-hour
+3302,2023-09,Middle Atlantic,residential,20.11,cents per kilowatt-hour
+3303,2023-09,Middle Atlantic,transportation,17.58,cents per kilowatt-hour
+3306,2023-09,East North Central,industrial,7.83,cents per kilowatt-hour
+3308,2023-09,Ohio,industrial,6.91,cents per kilowatt-hour
+3310,2023-09,Ohio,residential,15.59,cents per kilowatt-hour
+3311,2023-09,Ohio,transportation,6.68,cents per kilowatt-hour
+3314,2023-09,Oklahoma,industrial,6.55,cents per kilowatt-hour
+3316,2023-09,Oklahoma,residential,13.03,cents per kilowatt-hour
+3317,2023-09,Oklahoma,transportation,0.0,cents per kilowatt-hour
+3320,2023-09,Oregon,industrial,7.65,cents per kilowatt-hour
+3322,2023-09,Oregon,residential,13.19,cents per kilowatt-hour
+3323,2023-09,Oregon,transportation,11.28,cents per kilowatt-hour
+3326,2023-09,Pennsylvania,industrial,7.49,cents per kilowatt-hour
+3328,2023-09,Pennsylvania,residential,18.02,cents per kilowatt-hour
+3329,2023-09,Pennsylvania,transportation,10.6,cents per kilowatt-hour
+3332,2023-09,Rhode Island,industrial,19.07,cents per kilowatt-hour
+3334,2023-09,Rhode Island,residential,25.27,cents per kilowatt-hour
+3336,2023-05,Pacific Noncontiguous,industrial,31.12,cents per kilowatt-hour
+3338,2023-05,Pacific Noncontiguous,residential,34.99,cents per kilowatt-hour
+3339,2023-05,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+3344,2023-01,Alaska,industrial,17.61,cents per kilowatt-hour
+3346,2023-01,Alaska,residential,21.73,cents per kilowatt-hour
+3347,2023-01,Alaska,transportation,0.0,cents per kilowatt-hour
+3350,2023-01,Arizona,industrial,8.66,cents per kilowatt-hour
+3352,2023-01,Arizona,residential,12.63,cents per kilowatt-hour
+3353,2023-01,Arizona,transportation,8.77,cents per kilowatt-hour
+3356,2023-01,Arkansas,industrial,6.94,cents per kilowatt-hour
+3358,2023-01,Arkansas,residential,11.42,cents per kilowatt-hour
+3359,2023-01,Arkansas,transportation,13.94,cents per kilowatt-hour
+3362,2023-01,California,industrial,16.52,cents per kilowatt-hour
+3364,2023-01,California,residential,26.47,cents per kilowatt-hour
+3365,2023-01,California,transportation,11.67,cents per kilowatt-hour
+3368,2023-01,Colorado,industrial,8.52,cents per kilowatt-hour
+3370,2023-01,Colorado,residential,14.11,cents per kilowatt-hour
+3371,2023-01,Colorado,transportation,12.57,cents per kilowatt-hour
+3374,2023-01,Connecticut,industrial,16.86,cents per kilowatt-hour
+3376,2023-01,Connecticut,residential,30.29,cents per kilowatt-hour
+3377,2023-01,Connecticut,transportation,25.99,cents per kilowatt-hour
+3381,2023-01,West Virginia,industrial,6.86,cents per kilowatt-hour
+3383,2023-01,West Virginia,residential,13.06,cents per kilowatt-hour
+3384,2023-01,West Virginia,transportation,0.0,cents per kilowatt-hour
+3387,2023-01,Wisconsin,industrial,8.23,cents per kilowatt-hour
+3389,2023-01,Wisconsin,residential,16.17,cents per kilowatt-hour
+3390,2023-01,Wisconsin,transportation,15.54,cents per kilowatt-hour
+3393,2023-10,U.S. Total,industrial,8.01,cents per kilowatt-hour
+3395,2023-10,U.S. Total,residential,16.48,cents per kilowatt-hour
+3396,2023-10,U.S. Total,transportation,12.65,cents per kilowatt-hour
+3399,2023-11,Alabama,industrial,7.47,cents per kilowatt-hour
+3401,2023-11,Alabama,residential,14.98,cents per kilowatt-hour
+3402,2023-11,Alabama,transportation,0.0,cents per kilowatt-hour
+3405,2023-11,Alaska,industrial,20.37,cents per kilowatt-hour
+3407,2023-11,Alaska,residential,24.13,cents per kilowatt-hour
+3408,2023-11,Alaska,transportation,0.0,cents per kilowatt-hour
+3411,2023-11,Arizona,industrial,8.05,cents per kilowatt-hour
+3413,2023-11,Arizona,residential,14.55,cents per kilowatt-hour
+3414,2023-11,Arizona,transportation,9.68,cents per kilowatt-hour
+3417,2023-11,Arkansas,industrial,6.57,cents per kilowatt-hour
+3418,2023-01,Nebraska,transportation,0.0,cents per kilowatt-hour
+3421,2023-01,Nevada,industrial,11.06,cents per kilowatt-hour
+3423,2023-01,Nevada,residential,16.8,cents per kilowatt-hour
+3424,2023-01,Nevada,transportation,11.91,cents per kilowatt-hour
+3427,2023-01,New Hampshire,industrial,17.24,cents per kilowatt-hour
+3429,2023-01,New Hampshire,residential,31.68,cents per kilowatt-hour
+3430,2023-01,New Hampshire,transportation,0.0,cents per kilowatt-hour
+3432,2023-01,Oklahoma,residential,10.75,cents per kilowatt-hour
+3433,2023-01,Oklahoma,transportation,0.0,cents per kilowatt-hour
+3436,2023-01,Oregon,industrial,8.03,cents per kilowatt-hour
+3438,2023-01,Oregon,residential,12.09,cents per kilowatt-hour
+3439,2023-01,Oregon,transportation,11.16,cents per kilowatt-hour
+3442,2023-01,Pennsylvania,industrial,8.48,cents per kilowatt-hour
+3444,2023-01,Pennsylvania,residential,18.02,cents per kilowatt-hour
+3445,2023-01,Pennsylvania,transportation,11.24,cents per kilowatt-hour
+3448,2023-01,Rhode Island,industrial,21.84,cents per kilowatt-hour
+3450,2023-01,Rhode Island,residential,28.94,cents per kilowatt-hour
+3451,2023-01,Rhode Island,transportation,17.94,cents per kilowatt-hour
+3454,2023-01,South Carolina,industrial,7.2,cents per kilowatt-hour
+3456,2023-01,South Carolina,residential,13.58,cents per kilowatt-hour
+3457,2023-01,South Carolina,transportation,0.0,cents per kilowatt-hour
+3460,2023-01,South Dakota,industrial,7.79,cents per kilowatt-hour
+3462,2023-01,South Dakota,residential,11.19,cents per kilowatt-hour
+3463,2023-01,South Dakota,transportation,0.0,cents per kilowatt-hour
+3465,2023-09,Indiana,industrial,7.69,cents per kilowatt-hour
+3467,2023-09,Indiana,residential,14.1,cents per kilowatt-hour
+3468,2023-09,Indiana,transportation,14.88,cents per kilowatt-hour
+3471,2023-09,Iowa,industrial,8.22,cents per kilowatt-hour
+3473,2023-09,Iowa,residential,14.12,cents per kilowatt-hour
+3474,2023-09,Iowa,transportation,0.0,cents per kilowatt-hour
+3477,2023-09,Kansas,industrial,7.22,cents per kilowatt-hour
+3479,2023-09,Kansas,residential,13.2,cents per kilowatt-hour
+3480,2023-09,Kansas,transportation,0.0,cents per kilowatt-hour
+3481,2023-05,U.S. Total,industrial,7.64,cents per kilowatt-hour
+3483,2023-05,U.S. Total,residential,16.14,cents per kilowatt-hour
+3484,2023-05,U.S. Total,transportation,12.43,cents per kilowatt-hour
+3485,2023-08,California,industrial,21.8,cents per kilowatt-hour
+3487,2023-08,California,residential,29.97,cents per kilowatt-hour
+3488,2023-08,California,transportation,13.83,cents per kilowatt-hour
+3491,2023-08,Colorado,industrial,8.75,cents per kilowatt-hour
+3493,2023-08,Colorado,residential,14.45,cents per kilowatt-hour
+3494,2023-08,Colorado,transportation,13.96,cents per kilowatt-hour
+3497,2023-08,Connecticut,industrial,15.9,cents per kilowatt-hour
+3499,2023-08,Connecticut,residential,27.94,cents per kilowatt-hour
+3500,2023-08,Connecticut,transportation,22.64,cents per kilowatt-hour
+3503,2023-08,Delaware,industrial,8.09,cents per kilowatt-hour
+3505,2023-08,Delaware,residential,15.66,cents per kilowatt-hour
+3506,2023-08,Delaware,transportation,0.0,cents per kilowatt-hour
+3509,2023-08,District of Columbia,industrial,10.95,cents per kilowatt-hour
+3511,2023-08,District of Columbia,residential,16.48,cents per kilowatt-hour
+3512,2023-08,District of Columbia,transportation,10.29,cents per kilowatt-hour
+3515,2023-08,Florida,industrial,9.19,cents per kilowatt-hour
+3517,2023-08,Florida,residential,14.89,cents per kilowatt-hour
+3518,2023-08,Florida,transportation,10.82,cents per kilowatt-hour
+3521,2023-08,Georgia,industrial,8.76,cents per kilowatt-hour
+3523,2023-08,Georgia,residential,14.12,cents per kilowatt-hour
+3524,2023-08,Georgia,transportation,9.68,cents per kilowatt-hour
+3527,2023-08,Hawaii,industrial,31.74,cents per kilowatt-hour
+3529,2023-08,Hawaii,residential,39.77,cents per kilowatt-hour
+3530,2023-08,Hawaii,transportation,0.0,cents per kilowatt-hour
+3533,2023-08,Idaho,industrial,8.13,cents per kilowatt-hour
+3536,2023-11,Arkansas,residential,12.31,cents per kilowatt-hour
+3537,2023-11,Arkansas,transportation,15.97,cents per kilowatt-hour
+3540,2023-11,California,industrial,18.33,cents per kilowatt-hour
+3542,2023-11,California,residential,29.54,cents per kilowatt-hour
+3543,2023-11,California,transportation,13.56,cents per kilowatt-hour
+3546,2023-11,Colorado,industrial,8.44,cents per kilowatt-hour
+3548,2023-11,Colorado,residential,14.58,cents per kilowatt-hour
+3549,2023-11,Colorado,transportation,13.16,cents per kilowatt-hour
+3552,2023-11,Connecticut,industrial,15.22,cents per kilowatt-hour
+3554,2023-11,Connecticut,residential,26.98,cents per kilowatt-hour
+3555,2023-11,Connecticut,transportation,16.0,cents per kilowatt-hour
+3558,2023-11,Delaware,industrial,8.0,cents per kilowatt-hour
+3560,2023-11,Delaware,residential,17.22,cents per kilowatt-hour
+3561,2023-11,Delaware,transportation,0.0,cents per kilowatt-hour
+3564,2023-11,District of Columbia,industrial,10.33,cents per kilowatt-hour
+3566,2023-11,District of Columbia,residential,16.99,cents per kilowatt-hour
+3567,2023-11,District of Columbia,transportation,9.77,cents per kilowatt-hour
+3570,2023-11,Florida,industrial,9.08,cents per kilowatt-hour
+3572,2023-11,Florida,residential,15.37,cents per kilowatt-hour
+3573,2023-11,Florida,transportation,11.38,cents per kilowatt-hour
+3576,2023-11,Georgia,industrial,6.61,cents per kilowatt-hour
+3578,2023-11,Georgia,residential,13.16,cents per kilowatt-hour
+3579,2023-11,Georgia,transportation,6.23,cents per kilowatt-hour
+3582,2023-11,Hawaii,industrial,36.28,cents per kilowatt-hour
+3584,2023-11,Hawaii,residential,43.53,cents per kilowatt-hour
+3585,2023-11,Hawaii,transportation,0.0,cents per kilowatt-hour
+3588,2023-11,Idaho,industrial,6.53,cents per kilowatt-hour
+3590,2023-11,Idaho,residential,11.48,cents per kilowatt-hour
+3591,2023-11,Idaho,transportation,0.0,cents per kilowatt-hour
+3594,2023-11,Illinois,industrial,8.19,cents per kilowatt-hour
+3596,2023-11,Illinois,residential,15.65,cents per kilowatt-hour
+3597,2023-11,Illinois,transportation,5.53,cents per kilowatt-hour
+3601,2023-09,Kentucky,industrial,6.37,cents per kilowatt-hour
+3603,2023-09,Kentucky,residential,12.61,cents per kilowatt-hour
+3604,2023-09,Kentucky,transportation,0.0,cents per kilowatt-hour
+3607,2023-08,Idaho,residential,11.56,cents per kilowatt-hour
+3608,2023-08,Idaho,transportation,0.0,cents per kilowatt-hour
+3611,2023-08,Illinois,industrial,8.38,cents per kilowatt-hour
+3613,2023-08,Illinois,residential,13.74,cents per kilowatt-hour
+3614,2023-08,Illinois,transportation,6.51,cents per kilowatt-hour
+3617,2023-08,Indiana,industrial,8.1,cents per kilowatt-hour
+3619,2023-08,Indiana,residential,14.17,cents per kilowatt-hour
+3620,2023-08,Indiana,transportation,14.01,cents per kilowatt-hour
+3623,2023-08,Iowa,industrial,8.59,cents per kilowatt-hour
+3625,2023-08,Iowa,residential,15.17,cents per kilowatt-hour
+3626,2023-08,Iowa,transportation,0.0,cents per kilowatt-hour
+3629,2023-08,Kansas,industrial,7.61,cents per kilowatt-hour
+3631,2023-08,Kansas,residential,13.35,cents per kilowatt-hour
+3632,2023-08,Kansas,transportation,0.0,cents per kilowatt-hour
+3635,2023-08,Kentucky,industrial,6.6,cents per kilowatt-hour
+3637,2023-08,Kentucky,residential,12.33,cents per kilowatt-hour
+3638,2023-08,Kentucky,transportation,0.0,cents per kilowatt-hour
+3641,2023-08,Louisiana,industrial,5.33,cents per kilowatt-hour
+3643,2023-08,Louisiana,residential,11.06,cents per kilowatt-hour
+3644,2023-08,Louisiana,transportation,10.85,cents per kilowatt-hour
+3648,2023-08,Alaska,residential,25.14,cents per kilowatt-hour
+3649,2023-08,Alaska,transportation,0.0,cents per kilowatt-hour
+3650,2023-03,South Carolina,industrial,6.31,cents per kilowatt-hour
+3652,2023-03,South Carolina,residential,13.83,cents per kilowatt-hour
+3653,2023-03,South Carolina,transportation,0.0,cents per kilowatt-hour
+3656,2023-03,South Dakota,industrial,7.85,cents per kilowatt-hour
+3658,2023-03,South Dakota,residential,11.41,cents per kilowatt-hour
+3659,2023-03,South Dakota,transportation,0.0,cents per kilowatt-hour
+3662,2023-03,Tennessee,industrial,6.22,cents per kilowatt-hour
+3664,2023-03,Tennessee,residential,12.4,cents per kilowatt-hour
+3665,2023-03,Tennessee,transportation,0.0,cents per kilowatt-hour
+3668,2023-03,Texas,industrial,6.18,cents per kilowatt-hour
+3670,2023-03,Texas,residential,14.61,cents per kilowatt-hour
+3671,2023-07,Missouri,industrial,8.91,cents per kilowatt-hour
+3673,2023-07,Missouri,residential,14.42,cents per kilowatt-hour
+3674,2023-07,Missouri,transportation,12.86,cents per kilowatt-hour
+3677,2023-07,Montana,industrial,8.29,cents per kilowatt-hour
+3679,2023-07,Montana,residential,13.07,cents per kilowatt-hour
+3680,2023-07,Montana,transportation,0.0,cents per kilowatt-hour
+3683,2023-07,Nebraska,industrial,8.23,cents per kilowatt-hour
+3685,2023-07,Nebraska,residential,12.35,cents per kilowatt-hour
+3686,2023-07,Nebraska,transportation,0.0,cents per kilowatt-hour
+3689,2023-07,Nevada,industrial,12.21,cents per kilowatt-hour
+3691,2023-07,Nevada,residential,16.3,cents per kilowatt-hour
+3692,2023-07,Nevada,transportation,12.97,cents per kilowatt-hour
+3695,2023-07,New Hampshire,industrial,15.28,cents per kilowatt-hour
+3697,2023-07,New Hampshire,residential,28.96,cents per kilowatt-hour
+3698,2023-07,New Hampshire,transportation,0.0,cents per kilowatt-hour
+3701,2023-07,New Jersey,industrial,12.53,cents per kilowatt-hour
+3703,2023-07,New Jersey,residential,18.42,cents per kilowatt-hour
+3704,2023-07,New Jersey,transportation,12.95,cents per kilowatt-hour
+3707,2023-07,New Mexico,industrial,5.73,cents per kilowatt-hour
+3709,2023-07,New Mexico,residential,14.39,cents per kilowatt-hour
+3710,2023-07,New Mexico,transportation,0.0,cents per kilowatt-hour
+3713,2023-07,New York,industrial,7.02,cents per kilowatt-hour
+3717,2023-10,Alabama,industrial,7.23,cents per kilowatt-hour
+3719,2023-10,Alabama,residential,15.08,cents per kilowatt-hour
+3720,2023-10,Alabama,transportation,0.0,cents per kilowatt-hour
+3723,2023-10,Alaska,industrial,17.91,cents per kilowatt-hour
+3725,2023-10,Alaska,residential,24.04,cents per kilowatt-hour
+3726,2023-10,Alaska,transportation,0.0,cents per kilowatt-hour
+3729,2023-10,Arizona,industrial,7.79,cents per kilowatt-hour
+3731,2023-10,Arizona,residential,14.53,cents per kilowatt-hour
+3732,2023-10,Arizona,transportation,10.51,cents per kilowatt-hour
+3736,2023-11,Indiana,industrial,7.71,cents per kilowatt-hour
+3738,2023-11,Indiana,residential,14.64,cents per kilowatt-hour
+3739,2023-11,Indiana,transportation,12.18,cents per kilowatt-hour
+3742,2023-11,Iowa,industrial,6.18,cents per kilowatt-hour
+3744,2023-11,Iowa,residential,12.91,cents per kilowatt-hour
+3745,2023-11,Iowa,transportation,0.0,cents per kilowatt-hour
+3748,2023-11,Kansas,industrial,7.26,cents per kilowatt-hour
+3750,2023-11,Kansas,residential,13.04,cents per kilowatt-hour
+3751,2023-11,Kansas,transportation,0.0,cents per kilowatt-hour
+3754,2023-11,Kentucky,industrial,6.37,cents per kilowatt-hour
+3756,2023-06,West Virginia,industrial,7.2,cents per kilowatt-hour
+3758,2023-06,West Virginia,residential,14.44,cents per kilowatt-hour
+3759,2023-06,West Virginia,transportation,0.0,cents per kilowatt-hour
+3762,2023-06,Wisconsin,industrial,9.04,cents per kilowatt-hour
+3764,2023-06,Wisconsin,residential,17.14,cents per kilowatt-hour
+3765,2023-06,Wisconsin,transportation,17.63,cents per kilowatt-hour
+3768,2023-06,Wyoming,industrial,7.14,cents per kilowatt-hour
+3770,2023-06,Wyoming,residential,12.53,cents per kilowatt-hour
+3771,2023-06,Wyoming,transportation,0.0,cents per kilowatt-hour
+3774,2023-06,New England,industrial,15.23,cents per kilowatt-hour
+3776,2023-06,New England,residential,28.34,cents per kilowatt-hour
+3777,2023-06,New England,transportation,11.54,cents per kilowatt-hour
+3780,2023-06,Middle Atlantic,industrial,7.81,cents per kilowatt-hour
+3782,2023-06,Middle Atlantic,residential,19.57,cents per kilowatt-hour
+3783,2023-06,Middle Atlantic,transportation,14.41,cents per kilowatt-hour
+3786,2023-06,East North Central,industrial,7.85,cents per kilowatt-hour
+3788,2023-06,East North Central,residential,16.37,cents per kilowatt-hour
+3789,2023-06,East North Central,transportation,7.33,cents per kilowatt-hour
+3792,2023-06,West North Central,industrial,8.61,cents per kilowatt-hour
+3794,2023-06,West North Central,residential,14.16,cents per kilowatt-hour
+3795,2023-06,West North Central,transportation,11.53,cents per kilowatt-hour
+3798,2023-06,South Atlantic,industrial,7.41,cents per kilowatt-hour
+3800,2023-06,South Atlantic,residential,14.7,cents per kilowatt-hour
+3801,2023-06,South Atlantic,transportation,10.05,cents per kilowatt-hour
+3804,2023-06,East South Central,industrial,6.78,cents per kilowatt-hour
+3806,2023-06,East South Central,residential,13.24,cents per kilowatt-hour
+3807,2023-06,East South Central,transportation,0.0,cents per kilowatt-hour
+3810,2023-06,West South Central,industrial,6.4,cents per kilowatt-hour
+3812,2023-06,West South Central,residential,13.63,cents per kilowatt-hour
+3813,2023-06,West South Central,transportation,7.29,cents per kilowatt-hour
+3816,2023-06,Mountain,industrial,8.22,cents per kilowatt-hour
+3818,2023-06,Mountain,residential,14.17,cents per kilowatt-hour
+3819,2023-06,Mountain,transportation,13.69,cents per kilowatt-hour
+3822,2023-06,Pacific Contiguous,industrial,13.58,cents per kilowatt-hour
+3824,2023-06,Pacific Contiguous,residential,23.63,cents per kilowatt-hour
+3825,2023-06,Pacific Contiguous,transportation,11.66,cents per kilowatt-hour
+3828,2023-06,Pacific Noncontiguous,industrial,29.59,cents per kilowatt-hour
+3830,2023-06,Pacific Noncontiguous,residential,35.02,cents per kilowatt-hour
+3832,2023-11,Maryland,industrial,10.26,cents per kilowatt-hour
+3834,2023-11,Maryland,residential,17.38,cents per kilowatt-hour
+3835,2023-11,Maryland,transportation,11.71,cents per kilowatt-hour
+3838,2023-11,Massachusetts,industrial,17.67,cents per kilowatt-hour
+3840,2023-11,Massachusetts,residential,28.41,cents per kilowatt-hour
+3841,2023-11,Massachusetts,transportation,6.6,cents per kilowatt-hour
+3844,2023-11,Michigan,industrial,8.52,cents per kilowatt-hour
+3846,2023-11,Michigan,residential,18.59,cents per kilowatt-hour
+3847,2023-11,Michigan,transportation,14.35,cents per kilowatt-hour
+3850,2023-11,Minnesota,industrial,8.61,cents per kilowatt-hour
+3852,2023-11,Minnesota,residential,14.52,cents per kilowatt-hour
+3853,2023-11,Minnesota,transportation,12.34,cents per kilowatt-hour
+3856,2023-11,Mississippi,industrial,6.66,cents per kilowatt-hour
+3858,2023-11,Mississippi,residential,13.5,cents per kilowatt-hour
+3859,2023-11,Mississippi,transportation,0.0,cents per kilowatt-hour
+3862,2023-11,Missouri,industrial,7.24,cents per kilowatt-hour
+3864,2023-11,Missouri,residential,11.98,cents per kilowatt-hour
+3865,2023-11,Missouri,transportation,8.97,cents per kilowatt-hour
+3868,2023-11,Montana,industrial,7.6,cents per kilowatt-hour
+3870,2023-11,Montana,residential,12.58,cents per kilowatt-hour
+3871,2023-11,Montana,transportation,0.0,cents per kilowatt-hour
+3874,2023-11,Nebraska,industrial,7.26,cents per kilowatt-hour
+3876,2023-11,Nebraska,residential,11.26,cents per kilowatt-hour
+3877,2023-11,Nebraska,transportation,0.0,cents per kilowatt-hour
+3880,2023-11,Nevada,industrial,8.75,cents per kilowatt-hour
+3882,2023-11,Nevada,residential,17.11,cents per kilowatt-hour
+3883,2023-11,Nevada,transportation,12.21,cents per kilowatt-hour
+3886,2023-09,Delaware,industrial,7.84,cents per kilowatt-hour
+3888,2023-09,Delaware,residential,15.81,cents per kilowatt-hour
+3889,2023-09,Delaware,transportation,0.0,cents per kilowatt-hour
+3892,2023-09,District of Columbia,industrial,10.5,cents per kilowatt-hour
+3894,2023-09,District of Columbia,residential,16.29,cents per kilowatt-hour
+3895,2023-09,District of Columbia,transportation,9.21,cents per kilowatt-hour
+3898,2023-09,Florida,industrial,9.28,cents per kilowatt-hour
+3900,2023-02,Rhode Island,transportation,15.84,cents per kilowatt-hour
+3903,2023-02,South Carolina,industrial,6.45,cents per kilowatt-hour
+3905,2023-02,South Carolina,residential,14.06,cents per kilowatt-hour
+3906,2023-02,South Carolina,transportation,0.0,cents per kilowatt-hour
+3909,2023-02,South Dakota,industrial,7.81,cents per kilowatt-hour
+3911,2023-02,South Dakota,residential,11.46,cents per kilowatt-hour
+3912,2023-02,South Dakota,transportation,0.0,cents per kilowatt-hour
+3915,2023-02,Tennessee,industrial,6.74,cents per kilowatt-hour
+3917,2023-02,Tennessee,residential,12.54,cents per kilowatt-hour
+3918,2023-02,Tennessee,transportation,0.0,cents per kilowatt-hour
+3921,2023-02,Texas,industrial,6.32,cents per kilowatt-hour
+3923,2023-02,Texas,residential,14.72,cents per kilowatt-hour
+3924,2023-02,Texas,transportation,6.99,cents per kilowatt-hour
+3927,2023-11,Rhode Island,industrial,18.54,cents per kilowatt-hour
+3929,2023-11,Rhode Island,residential,29.78,cents per kilowatt-hour
+3930,2023-11,Rhode Island,transportation,16.52,cents per kilowatt-hour
+3933,2023-11,South Carolina,industrial,6.34,cents per kilowatt-hour
+3935,2023-11,South Carolina,residential,13.76,cents per kilowatt-hour
+3936,2023-11,South Carolina,transportation,0.0,cents per kilowatt-hour
+3939,2023-11,South Dakota,industrial,7.87,cents per kilowatt-hour
+3941,2023-11,South Dakota,residential,12.21,cents per kilowatt-hour
+3942,2023-11,South Dakota,transportation,0.0,cents per kilowatt-hour
+3945,2023-11,Tennessee,industrial,6.06,cents per kilowatt-hour
+3947,2023-11,Tennessee,residential,12.6,cents per kilowatt-hour
+3948,2023-11,Tennessee,transportation,0.0,cents per kilowatt-hour
+3951,2023-11,Texas,industrial,6.07,cents per kilowatt-hour
+3953,2023-11,Texas,residential,14.79,cents per kilowatt-hour
+3954,2023-11,Texas,transportation,7.6,cents per kilowatt-hour
+3957,2023-11,Utah,industrial,6.6,cents per kilowatt-hour
+3959,2023-11,Utah,residential,11.05,cents per kilowatt-hour
+3960,2023-11,Utah,transportation,12.16,cents per kilowatt-hour
+3965,2024-01,Alabama,industrial,7.14,cents per kilowatt-hour
+3967,2024-01,Alabama,residential,14.4,cents per kilowatt-hour
+3968,2024-01,Alabama,transportation,0.0,cents per kilowatt-hour
+3971,2024-01,Alaska,industrial,19.12,cents per kilowatt-hour
+3973,2024-01,Alaska,residential,23.78,cents per kilowatt-hour
+3974,2024-01,Alaska,transportation,0.0,cents per kilowatt-hour
+3977,2023-11,Vermont,industrial,10.98,cents per kilowatt-hour
+3979,2023-11,Vermont,residential,21.57,cents per kilowatt-hour
+3980,2023-11,Vermont,transportation,0.0,cents per kilowatt-hour
+3983,2023-11,Virginia,industrial,8.88,cents per kilowatt-hour
+3985,2023-11,Virginia,residential,13.93,cents per kilowatt-hour
+3986,2023-11,Virginia,transportation,9.97,cents per kilowatt-hour
+3989,2023-11,Washington,industrial,6.27,cents per kilowatt-hour
+3991,2023-11,Washington,residential,11.07,cents per kilowatt-hour
+3992,2023-11,Washington,transportation,10.02,cents per kilowatt-hour
+3994,2024-01,Arizona,industrial,7.68,cents per kilowatt-hour
+3996,2024-01,Arizona,residential,14.11,cents per kilowatt-hour
+3997,2024-01,Arizona,transportation,9.95,cents per kilowatt-hour
+4000,2024-01,Arkansas,industrial,7.08,cents per kilowatt-hour
+4002,2024-01,Arkansas,residential,11.24,cents per kilowatt-hour
+4003,2024-01,Arkansas,transportation,12.7,cents per kilowatt-hour
+4006,2024-01,California,industrial,18.03,cents per kilowatt-hour
+4008,2024-01,California,residential,29.49,cents per kilowatt-hour
+4009,2024-01,California,transportation,17.06,cents per kilowatt-hour
+4012,2024-01,Colorado,industrial,8.27,cents per kilowatt-hour
+4014,2024-01,Colorado,residential,14.26,cents per kilowatt-hour
+4015,2024-01,Colorado,transportation,9.99,cents per kilowatt-hour
+4018,2024-01,Connecticut,industrial,16.56,cents per kilowatt-hour
+4020,2024-01,Connecticut,residential,27.4,cents per kilowatt-hour
+4021,2024-01,Connecticut,transportation,18.36,cents per kilowatt-hour
+4024,2024-01,Delaware,industrial,8.53,cents per kilowatt-hour
+4026,2024-01,Delaware,residential,15.59,cents per kilowatt-hour
+4027,2024-01,Delaware,transportation,0.0,cents per kilowatt-hour
+4030,2024-01,District of Columbia,industrial,11.02,cents per kilowatt-hour
+4032,2024-01,District of Columbia,residential,16.89,cents per kilowatt-hour
+4033,2024-01,District of Columbia,transportation,9.86,cents per kilowatt-hour
+4036,2024-01,Florida,industrial,9.15,cents per kilowatt-hour
+4038,2024-01,Florida,residential,14.79,cents per kilowatt-hour
+4039,2024-01,Florida,transportation,11.82,cents per kilowatt-hour
+4042,2024-01,Georgia,industrial,8.0,cents per kilowatt-hour
+4044,2024-01,Georgia,residential,12.34,cents per kilowatt-hour
+4045,2024-01,Georgia,transportation,6.29,cents per kilowatt-hour
+4048,2024-01,Hawaii,industrial,37.68,cents per kilowatt-hour
+4050,2024-01,Hawaii,residential,44.28,cents per kilowatt-hour
+4051,2024-01,Hawaii,transportation,0.0,cents per kilowatt-hour
+4054,2024-01,Idaho,industrial,6.78,cents per kilowatt-hour
+4056,2024-01,Idaho,residential,10.79,cents per kilowatt-hour
+4057,2024-01,Idaho,transportation,0.0,cents per kilowatt-hour
+4060,2024-01,Illinois,industrial,8.86,cents per kilowatt-hour
+4062,2024-01,Illinois,residential,15.03,cents per kilowatt-hour
+4063,2024-01,Illinois,transportation,10.41,cents per kilowatt-hour
+4066,2023-12,West Virginia,industrial,7.05,cents per kilowatt-hour
+4068,2023-12,West Virginia,residential,13.35,cents per kilowatt-hour
+4069,2023-12,West Virginia,transportation,0.0,cents per kilowatt-hour
+4072,2023-12,Wisconsin,industrial,8.28,cents per kilowatt-hour
+4074,2023-12,Wisconsin,residential,16.58,cents per kilowatt-hour
+4075,2023-12,Wisconsin,transportation,17.48,cents per kilowatt-hour
+4078,2023-12,Wyoming,industrial,7.05,cents per kilowatt-hour
+4080,2023-12,Wyoming,residential,11.32,cents per kilowatt-hour
+4081,2023-12,Wyoming,transportation,0.0,cents per kilowatt-hour
+4084,2023-12,New England,industrial,16.21,cents per kilowatt-hour
+4086,2023-12,New England,residential,27.52,cents per kilowatt-hour
+4087,2023-12,New England,transportation,12.72,cents per kilowatt-hour
+4090,2023-12,Middle Atlantic,industrial,7.76,cents per kilowatt-hour
+4092,2023-12,Middle Atlantic,residential,19.36,cents per kilowatt-hour
+4093,2023-12,Middle Atlantic,transportation,13.77,cents per kilowatt-hour
+4096,2023-12,East North Central,industrial,7.72,cents per kilowatt-hour
+4098,2023-12,East North Central,residential,15.93,cents per kilowatt-hour
+4099,2023-12,East North Central,transportation,7.43,cents per kilowatt-hour
+4102,2023-12,West North Central,industrial,7.16,cents per kilowatt-hour
+4104,2023-12,West North Central,residential,12.06,cents per kilowatt-hour
+4105,2023-12,West North Central,transportation,9.58,cents per kilowatt-hour
+4109,2024-01,Indiana,industrial,8.24,cents per kilowatt-hour
+4112,2023-12,South Atlantic,industrial,7.47,cents per kilowatt-hour
+4114,2023-12,South Atlantic,residential,14.14,cents per kilowatt-hour
+4115,2023-12,South Atlantic,transportation,10.25,cents per kilowatt-hour
+4118,2023-12,East South Central,industrial,6.51,cents per kilowatt-hour
+4120,2023-12,East South Central,residential,12.86,cents per kilowatt-hour
+4121,2023-12,East South Central,transportation,0.0,cents per kilowatt-hour
+4124,2023-12,West South Central,industrial,5.8,cents per kilowatt-hour
+4126,2023-12,West South Central,residential,13.48,cents per kilowatt-hour
+4127,2023-12,West South Central,transportation,9.11,cents per kilowatt-hour
+4130,2023-12,Mountain,industrial,7.15,cents per kilowatt-hour
+4132,2023-12,Mountain,residential,13.44,cents per kilowatt-hour
+4133,2023-12,Mountain,transportation,12.12,cents per kilowatt-hour
+4136,2023-12,Pacific Contiguous,industrial,12.61,cents per kilowatt-hour
+4138,2023-12,Pacific Contiguous,residential,20.7,cents per kilowatt-hour
+4139,2023-12,Pacific Contiguous,transportation,12.54,cents per kilowatt-hour
+4142,2023-12,Pacific Noncontiguous,industrial,31.04,cents per kilowatt-hour
+4144,2023-12,Pacific Noncontiguous,residential,33.46,cents per kilowatt-hour
+4145,2023-12,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+4148,2023-12,U.S. Total,industrial,7.61,cents per kilowatt-hour
+4150,2023-12,U.S. Total,residential,15.69,cents per kilowatt-hour
+4151,2023-12,U.S. Total,transportation,12.34,cents per kilowatt-hour
+4154,2023-06,Virginia,industrial,8.84,cents per kilowatt-hour
+4156,2023-06,Virginia,residential,15.13,cents per kilowatt-hour
+4157,2023-06,Virginia,transportation,10.49,cents per kilowatt-hour
+4160,2023-06,Washington,industrial,6.15,cents per kilowatt-hour
+4162,2023-06,Washington,residential,11.21,cents per kilowatt-hour
+4163,2023-06,Washington,transportation,9.95,cents per kilowatt-hour
+4166,2023-01,South Atlantic,transportation,10.66,cents per kilowatt-hour
+4169,2023-01,East South Central,industrial,6.98,cents per kilowatt-hour
+4171,2023-01,East South Central,residential,12.95,cents per kilowatt-hour
+4172,2023-01,East South Central,transportation,0.0,cents per kilowatt-hour
+4175,2023-01,West South Central,industrial,6.62,cents per kilowatt-hour
+4177,2023-01,West South Central,residential,13.38,cents per kilowatt-hour
+4178,2023-01,West South Central,transportation,7.3,cents per kilowatt-hour
+4181,2023-01,Mountain,industrial,8.05,cents per kilowatt-hour
+4183,2023-01,Mountain,residential,12.81,cents per kilowatt-hour
+4184,2023-01,Mountain,transportation,12.29,cents per kilowatt-hour
+4187,2023-01,Pacific Contiguous,industrial,12.07,cents per kilowatt-hour
+4189,2023-01,Pacific Contiguous,residential,19.48,cents per kilowatt-hour
+4190,2023-01,Pacific Contiguous,transportation,11.43,cents per kilowatt-hour
+4193,2023-01,Pacific Noncontiguous,industrial,33.35,cents per kilowatt-hour
+4195,2023-01,Pacific Noncontiguous,residential,33.38,cents per kilowatt-hour
+4196,2023-01,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+4199,2023-01,U.S. Total,industrial,8.18,cents per kilowatt-hour
+4201,2023-01,U.S. Total,residential,15.47,cents per kilowatt-hour
+4202,2023-01,U.S. Total,transportation,12.54,cents per kilowatt-hour
+4205,2023-02,Alabama,industrial,7.14,cents per kilowatt-hour
+4207,2023-02,Alabama,residential,15.34,cents per kilowatt-hour
+4208,2023-02,Alabama,transportation,0.0,cents per kilowatt-hour
+4211,2023-02,Alaska,industrial,20.17,cents per kilowatt-hour
+4213,2023-02,Alaska,residential,22.92,cents per kilowatt-hour
+4214,2023-02,Alaska,transportation,0.0,cents per kilowatt-hour
+4217,2023-02,Arizona,industrial,7.67,cents per kilowatt-hour
+4219,2023-02,Arizona,residential,13.12,cents per kilowatt-hour
+4220,2023-02,Arizona,transportation,8.88,cents per kilowatt-hour
+4223,2023-02,Arkansas,industrial,6.96,cents per kilowatt-hour
+4225,2023-02,Arkansas,residential,11.99,cents per kilowatt-hour
+4226,2023-02,Arkansas,transportation,14.03,cents per kilowatt-hour
+4229,2023-02,California,industrial,15.69,cents per kilowatt-hour
+4231,2023-02,California,residential,27.25,cents per kilowatt-hour
+4232,2023-02,California,transportation,11.96,cents per kilowatt-hour
+4235,2023-02,Colorado,industrial,7.74,cents per kilowatt-hour
+4237,2023-02,Colorado,residential,14.23,cents per kilowatt-hour
+4238,2023-02,Colorado,transportation,13.67,cents per kilowatt-hour
+4241,2023-02,Connecticut,industrial,16.23,cents per kilowatt-hour
+4243,2023-02,Connecticut,residential,34.38,cents per kilowatt-hour
+4244,2023-02,Connecticut,transportation,38.63,cents per kilowatt-hour
+4247,2023-02,Delaware,industrial,9.09,cents per kilowatt-hour
+4249,2023-02,Delaware,residential,15.01,cents per kilowatt-hour
+4250,2023-02,Delaware,transportation,0.0,cents per kilowatt-hour
+4254,2024-01,Pennsylvania,industrial,7.98,cents per kilowatt-hour
+4256,2024-01,Pennsylvania,residential,17.43,cents per kilowatt-hour
+4257,2024-01,Pennsylvania,transportation,10.07,cents per kilowatt-hour
+4260,2024-01,Rhode Island,industrial,20.3,cents per kilowatt-hour
+4262,2024-01,Rhode Island,residential,31.26,cents per kilowatt-hour
+4263,2024-01,Rhode Island,transportation,20.29,cents per kilowatt-hour
+4266,2024-01,South Carolina,industrial,7.16,cents per kilowatt-hour
+4268,2024-01,South Carolina,residential,13.54,cents per kilowatt-hour
+4269,2024-01,South Carolina,transportation,0.0,cents per kilowatt-hour
+4272,2024-01,South Dakota,industrial,8.04,cents per kilowatt-hour
+4274,2024-01,South Dakota,residential,11.18,cents per kilowatt-hour
+4275,2024-01,South Dakota,transportation,0.0,cents per kilowatt-hour
+4278,2024-01,Tennessee,industrial,6.47,cents per kilowatt-hour
+4280,2024-01,Tennessee,residential,12.25,cents per kilowatt-hour
+4281,2024-01,Tennessee,transportation,0.0,cents per kilowatt-hour
+4284,2024-01,Texas,industrial,6.36,cents per kilowatt-hour
+4286,2024-01,Texas,residential,14.28,cents per kilowatt-hour
+4287,2024-01,Texas,transportation,6.96,cents per kilowatt-hour
+4290,2024-01,Utah,industrial,8.37,cents per kilowatt-hour
+4292,2024-01,Utah,residential,10.85,cents per kilowatt-hour
+4293,2024-01,Utah,transportation,12.07,cents per kilowatt-hour
+4296,2024-01,Vermont,industrial,11.56,cents per kilowatt-hour
+4298,2024-01,Vermont,residential,21.11,cents per kilowatt-hour
+4299,2024-01,Vermont,transportation,0.0,cents per kilowatt-hour
+4302,2024-01,Virginia,industrial,8.63,cents per kilowatt-hour
+4304,2024-01,Virginia,residential,13.5,cents per kilowatt-hour
+4305,2024-01,Virginia,transportation,10.03,cents per kilowatt-hour
+4308,2024-01,Washington,industrial,6.47,cents per kilowatt-hour
+4310,2024-01,Washington,residential,11.09,cents per kilowatt-hour
+4311,2024-01,Washington,transportation,9.83,cents per kilowatt-hour
+4314,2024-01,West Virginia,industrial,7.25,cents per kilowatt-hour
+4316,2024-01,West Virginia,residential,13.65,cents per kilowatt-hour
+4317,2024-01,West Virginia,transportation,0.0,cents per kilowatt-hour
+4320,2024-01,Wisconsin,industrial,8.52,cents per kilowatt-hour
+4322,2024-01,Wisconsin,residential,16.46,cents per kilowatt-hour
+4323,2024-01,Wisconsin,transportation,20.1,cents per kilowatt-hour
+4326,2024-01,Wyoming,industrial,7.1,cents per kilowatt-hour
+4328,2024-01,Wyoming,residential,10.86,cents per kilowatt-hour
+4329,2024-01,Wyoming,transportation,0.0,cents per kilowatt-hour
+4332,2023-04,New York,industrial,6.78,cents per kilowatt-hour
+4334,2023-04,New York,residential,19.81,cents per kilowatt-hour
+4335,2023-04,New York,transportation,14.66,cents per kilowatt-hour
+4338,2023-04,North Carolina,industrial,6.77,cents per kilowatt-hour
+4340,2023-04,North Carolina,residential,12.91,cents per kilowatt-hour
+4341,2023-04,North Carolina,transportation,8.03,cents per kilowatt-hour
+4344,2023-04,North Dakota,industrial,7.41,cents per kilowatt-hour
+4346,2023-04,North Dakota,residential,10.28,cents per kilowatt-hour
+4347,2023-04,North Dakota,transportation,0.0,cents per kilowatt-hour
+4350,2023-04,Ohio,industrial,6.91,cents per kilowatt-hour
+4352,2023-04,Ohio,residential,15.01,cents per kilowatt-hour
+4353,2023-04,Ohio,transportation,5.58,cents per kilowatt-hour
+4356,2023-04,Oklahoma,industrial,5.86,cents per kilowatt-hour
+4358,2023-04,Oklahoma,residential,12.17,cents per kilowatt-hour
+4359,2023-04,Oklahoma,transportation,0.0,cents per kilowatt-hour
+4362,2023-04,Oregon,industrial,7.67,cents per kilowatt-hour
+4364,2023-04,Oregon,residential,12.55,cents per kilowatt-hour
+4365,2023-04,Oregon,transportation,11.46,cents per kilowatt-hour
+4368,2023-04,Pennsylvania,industrial,7.8,cents per kilowatt-hour
+4370,2023-04,Pennsylvania,residential,18.36,cents per kilowatt-hour
+4371,2023-04,Pennsylvania,transportation,8.65,cents per kilowatt-hour
+4374,2024-01,New England,industrial,16.93,cents per kilowatt-hour
+4376,2024-01,New England,residential,27.36,cents per kilowatt-hour
+4377,2024-01,New England,transportation,13.34,cents per kilowatt-hour
+4380,2024-01,Middle Atlantic,industrial,8.5,cents per kilowatt-hour
+4382,2024-01,Middle Atlantic,residential,19.68,cents per kilowatt-hour
+4383,2024-01,Middle Atlantic,transportation,13.21,cents per kilowatt-hour
+4386,2024-01,East North Central,industrial,8.2,cents per kilowatt-hour
+4388,2024-01,East North Central,residential,15.75,cents per kilowatt-hour
+4389,2024-01,East North Central,transportation,10.19,cents per kilowatt-hour
+4390,2023-04,Kentucky,industrial,6.42,cents per kilowatt-hour
+4392,2023-04,Kentucky,residential,12.79,cents per kilowatt-hour
+4393,2023-04,Kentucky,transportation,0.0,cents per kilowatt-hour
+4396,2023-04,Louisiana,industrial,5.34,cents per kilowatt-hour
+4398,2023-04,Louisiana,residential,11.2,cents per kilowatt-hour
+4399,2023-04,Louisiana,transportation,10.51,cents per kilowatt-hour
+4402,2023-04,Maine,industrial,10.98,cents per kilowatt-hour
+4404,2023-04,Maine,residential,28.61,cents per kilowatt-hour
+4405,2023-04,Maine,transportation,0.0,cents per kilowatt-hour
+4408,2023-04,Maryland,industrial,9.62,cents per kilowatt-hour
+4410,2023-04,Maryland,residential,15.92,cents per kilowatt-hour
+4411,2023-04,Maryland,transportation,11.18,cents per kilowatt-hour
+4414,2023-04,Massachusetts,industrial,17.55,cents per kilowatt-hour
+4416,2023-04,Massachusetts,residential,32.36,cents per kilowatt-hour
+4417,2023-04,Massachusetts,transportation,7.5,cents per kilowatt-hour
+4420,2023-04,Michigan,industrial,7.73,cents per kilowatt-hour
+4422,2023-04,Michigan,residential,18.41,cents per kilowatt-hour
+4423,2023-04,Michigan,transportation,13.6,cents per kilowatt-hour
+4426,2023-04,Minnesota,industrial,9.32,cents per kilowatt-hour
+4428,2023-04,Minnesota,residential,14.71,cents per kilowatt-hour
+4429,2023-04,Minnesota,transportation,12.44,cents per kilowatt-hour
+4432,2023-04,Mississippi,industrial,6.59,cents per kilowatt-hour
+4434,2023-04,Mississippi,residential,13.9,cents per kilowatt-hour
+4435,2023-04,Mississippi,transportation,0.0,cents per kilowatt-hour
+4438,2023-04,Missouri,industrial,7.27,cents per kilowatt-hour
+4440,2023-04,Missouri,residential,11.79,cents per kilowatt-hour
+4441,2023-04,Missouri,transportation,7.88,cents per kilowatt-hour
+4444,2023-04,Montana,industrial,8.05,cents per kilowatt-hour
+4446,2023-04,Montana,residential,12.26,cents per kilowatt-hour
+4447,2023-04,Montana,transportation,0.0,cents per kilowatt-hour
+4450,2023-04,Nebraska,industrial,7.8,cents per kilowatt-hour
+4452,2023-04,Nebraska,residential,11.19,cents per kilowatt-hour
+4453,2023-04,Nebraska,transportation,0.0,cents per kilowatt-hour
+4456,2023-04,Nevada,industrial,9.77,cents per kilowatt-hour
+4458,2023-04,Nevada,residential,17.59,cents per kilowatt-hour
+4459,2023-04,Nevada,transportation,13.15,cents per kilowatt-hour
+4462,2023-04,New Hampshire,industrial,15.49,cents per kilowatt-hour
+4464,2023-04,New Hampshire,residential,30.8,cents per kilowatt-hour
+4465,2023-04,New Hampshire,transportation,0.0,cents per kilowatt-hour
+4468,2023-04,New Jersey,industrial,10.61,cents per kilowatt-hour
+4470,2023-04,New Jersey,residential,17.37,cents per kilowatt-hour
+4471,2023-04,New Jersey,transportation,12.48,cents per kilowatt-hour
+4474,2023-04,New Mexico,industrial,5.56,cents per kilowatt-hour
+4476,2023-04,New Mexico,residential,13.43,cents per kilowatt-hour
+4477,2023-04,New Mexico,transportation,0.0,cents per kilowatt-hour
+4480,2023-09,East North Central,transportation,7.19,cents per kilowatt-hour
+4483,2023-09,West North Central,industrial,8.31,cents per kilowatt-hour
+4485,2023-09,West North Central,residential,13.95,cents per kilowatt-hour
+4486,2023-09,West North Central,transportation,13.01,cents per kilowatt-hour
+4489,2023-09,South Atlantic,industrial,7.81,cents per kilowatt-hour
+4491,2023-09,South Atlantic,residential,14.86,cents per kilowatt-hour
+4492,2023-09,South Atlantic,transportation,9.94,cents per kilowatt-hour
+4495,2023-09,East South Central,industrial,6.62,cents per kilowatt-hour
+4497,2023-09,East South Central,residential,12.97,cents per kilowatt-hour
+4498,2023-09,East South Central,transportation,0.0,cents per kilowatt-hour
+4501,2023-09,West South Central,industrial,7.17,cents per kilowatt-hour
+4503,2023-09,West South Central,residential,13.96,cents per kilowatt-hour
+4504,2023-09,West South Central,transportation,7.68,cents per kilowatt-hour
+4507,2023-09,Mountain,industrial,8.33,cents per kilowatt-hour
+4509,2023-09,Mountain,residential,14.34,cents per kilowatt-hour
+4510,2023-09,Mountain,transportation,13.87,cents per kilowatt-hour
+4513,2023-09,Pacific Contiguous,industrial,14.86,cents per kilowatt-hour
+4515,2023-09,Pacific Contiguous,residential,24.29,cents per kilowatt-hour
+4516,2023-09,Pacific Contiguous,transportation,14.61,cents per kilowatt-hour
+4519,2023-09,Pacific Noncontiguous,industrial,28.46,cents per kilowatt-hour
+4521,2023-09,Pacific Noncontiguous,residential,34.92,cents per kilowatt-hour
+4522,2023-09,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+4525,2023-09,U.S. Total,industrial,8.43,cents per kilowatt-hour
+4529,2024-01,Maine,industrial,14.76,cents per kilowatt-hour
+4533,2024-01,West North Central,industrial,7.59,cents per kilowatt-hour
+4535,2024-01,West North Central,residential,11.81,cents per kilowatt-hour
+4536,2024-01,West North Central,transportation,9.16,cents per kilowatt-hour
+4539,2024-01,South Atlantic,industrial,7.98,cents per kilowatt-hour
+4541,2024-01,South Atlantic,residential,13.95,cents per kilowatt-hour
+4542,2024-01,South Atlantic,transportation,10.05,cents per kilowatt-hour
+4545,2024-01,East South Central,industrial,6.96,cents per kilowatt-hour
+4547,2024-01,East South Central,residential,12.95,cents per kilowatt-hour
+4548,2024-01,East South Central,transportation,0.0,cents per kilowatt-hour
+4551,2024-01,West South Central,industrial,6.33,cents per kilowatt-hour
+4553,2024-01,West South Central,residential,13.11,cents per kilowatt-hour
+4554,2024-01,West South Central,transportation,8.37,cents per kilowatt-hour
+4557,2024-01,Mountain,industrial,7.78,cents per kilowatt-hour
+4559,2024-01,Mountain,residential,13.33,cents per kilowatt-hour
+4560,2024-01,Mountain,transportation,10.72,cents per kilowatt-hour
+4563,2024-01,Pacific Contiguous,industrial,12.54,cents per kilowatt-hour
+4565,2024-01,Pacific Contiguous,residential,21.11,cents per kilowatt-hour
+4566,2024-01,Pacific Contiguous,transportation,16.01,cents per kilowatt-hour
+4569,2024-01,Pacific Noncontiguous,industrial,31.97,cents per kilowatt-hour
+4571,2024-01,Pacific Noncontiguous,residential,34.01,cents per kilowatt-hour
+4572,2024-01,Pacific Noncontiguous,transportation,0.0,cents per kilowatt-hour
+4575,2024-01,U.S. Total,industrial,8.1,cents per kilowatt-hour
+4577,2024-01,U.S. Total,residential,15.47,cents per kilowatt-hour
+4578,2024-01,U.S. Total,transportation,12.64,cents per kilowatt-hour
+4579,2023-09,U.S. Total,residential,16.27,cents per kilowatt-hour
+4580,2023-09,U.S. Total,transportation,14.45,cents per kilowatt-hour
+4581,2023-12,South Carolina,residential,13.26,cents per kilowatt-hour
+4582,2023-12,South Carolina,transportation,0.0,cents per kilowatt-hour
+4585,2023-12,South Dakota,industrial,7.86,cents per kilowatt-hour
+4587,2023-12,South Dakota,residential,11.8,cents per kilowatt-hour
+4588,2023-12,South Dakota,transportation,0.0,cents per kilowatt-hour
+4591,2023-12,Tennessee,industrial,6.0,cents per kilowatt-hour
+4593,2023-12,Tennessee,residential,12.11,cents per kilowatt-hour
+4594,2023-12,Tennessee,transportation,0.0,cents per kilowatt-hour
+4597,2023-12,Texas,industrial,5.72,cents per kilowatt-hour
+4599,2023-12,Texas,residential,14.64,cents per kilowatt-hour
+4600,2023-12,Texas,transportation,8.97,cents per kilowatt-hour
+4603,2023-12,Utah,industrial,6.4,cents per kilowatt-hour
+4605,2023-12,Utah,residential,10.87,cents per kilowatt-hour
+4606,2023-12,Utah,transportation,12.08,cents per kilowatt-hour
+4607,2024-01,Maine,residential,25.92,cents per kilowatt-hour
+4608,2024-01,Maine,transportation,0.0,cents per kilowatt-hour
+4611,2024-01,Maryland,industrial,10.75,cents per kilowatt-hour
+4613,2024-01,Maryland,residential,17.5,cents per kilowatt-hour
+4614,2024-01,Maryland,transportation,11.19,cents per kilowatt-hour
+4617,2024-01,Massachusetts,industrial,18.65,cents per kilowatt-hour
+4619,2024-01,Massachusetts,residential,28.39,cents per kilowatt-hour
+4620,2024-01,Massachusetts,transportation,9.83,cents per kilowatt-hour
+4623,2024-01,Michigan,industrial,8.46,cents per kilowatt-hour
+4625,2024-01,Michigan,residential,18.34,cents per kilowatt-hour
+4626,2024-01,Michigan,transportation,13.78,cents per kilowatt-hour
+4629,2024-01,Minnesota,industrial,9.14,cents per kilowatt-hour
+4631,2024-01,Minnesota,residential,14.04,cents per kilowatt-hour
+4632,2024-01,Minnesota,transportation,11.31,cents per kilowatt-hour
+4635,2024-01,Mississippi,industrial,6.93,cents per kilowatt-hour
+4637,2024-01,Mississippi,residential,12.72,cents per kilowatt-hour
+4638,2024-01,Mississippi,transportation,0.0,cents per kilowatt-hour
+4641,2024-01,Missouri,industrial,7.5,cents per kilowatt-hour
+4643,2024-01,Missouri,residential,11.06,cents per kilowatt-hour
+4644,2024-01,Missouri,transportation,7.7,cents per kilowatt-hour
+4647,2024-01,Montana,industrial,12.59,cents per kilowatt-hour
+4649,2024-01,Montana,residential,11.98,cents per kilowatt-hour
+4650,2024-01,Montana,transportation,0.0,cents per kilowatt-hour
+4653,2024-01,Nebraska,industrial,7.51,cents per kilowatt-hour
+4655,2024-01,Nebraska,residential,9.85,cents per kilowatt-hour
+4656,2024-01,Nebraska,transportation,0.0,cents per kilowatt-hour
+4659,2024-01,Nevada,industrial,8.49,cents per kilowatt-hour
+4661,2024-01,Nevada,residential,16.38,cents per kilowatt-hour
+4662,2024-01,Nevada,transportation,11.88,cents per kilowatt-hour
+4665,2024-01,New Hampshire,industrial,17.26,cents per kilowatt-hour
+4667,2024-01,New Hampshire,residential,25.11,cents per kilowatt-hour
+4668,2024-01,New Hampshire,transportation,0.0,cents per kilowatt-hour
+4671,2024-01,New Jersey,industrial,11.21,cents per kilowatt-hour
+4673,2024-01,New Jersey,residential,17.97,cents per kilowatt-hour
+4674,2024-01,New Jersey,transportation,11.59,cents per kilowatt-hour
+4677,2024-01,New Mexico,industrial,5.46,cents per kilowatt-hour
+4679,2024-01,New Mexico,residential,13.76,cents per kilowatt-hour
+4680,2024-01,New Mexico,transportation,0.0,cents per kilowatt-hour
+4683,2024-01,New York,industrial,9.02,cents per kilowatt-hour
+4685,2024-01,New York,residential,23.54,cents per kilowatt-hour
+4686,2024-01,New York,transportation,14.11,cents per kilowatt-hour
+4689,2024-01,North Carolina,industrial,7.5,cents per kilowatt-hour
+4691,2024-01,North Carolina,residential,13.05,cents per kilowatt-hour
+4692,2024-01,North Carolina,transportation,8.97,cents per kilowatt-hour
+4695,2024-01,North Dakota,industrial,7.16,cents per kilowatt-hour
+4697,2024-01,North Dakota,residential,9.88,cents per kilowatt-hour
+4698,2024-01,North Dakota,transportation,0.0,cents per kilowatt-hour
+4701,2024-01,Ohio,industrial,7.31,cents per kilowatt-hour
+4703,2024-01,Ohio,residential,15.69,cents per kilowatt-hour
+4704,2024-01,Ohio,transportation,6.59,cents per kilowatt-hour
+4707,2024-01,Oklahoma,industrial,6.5,cents per kilowatt-hour
+4709,2024-01,Oklahoma,residential,10.62,cents per kilowatt-hour
+4710,2024-01,Oklahoma,transportation,0.0,cents per kilowatt-hour
+4713,2024-01,Oregon,industrial,7.66,cents per kilowatt-hour
+4715,2024-01,Oregon,residential,13.84,cents per kilowatt-hour
+4716,2024-01,Oregon,transportation,12.19,cents per kilowatt-hour
+4719,2023-09,East North Central,residential,15.99,cents per kilowatt-hour
+4722,2023-01,Alabama,industrial,6.81,cents per kilowatt-hour
+4724,2023-01,Alabama,residential,14.41,cents per kilowatt-hour
+4725,2023-01,Alabama,transportation,0.0,cents per kilowatt-hour
+4728,2023-07,Alabama,industrial,7.61,cents per kilowatt-hour
+4730,2023-07,Alabama,residential,14.48,cents per kilowatt-hour
+4731,2023-07,Alabama,transportation,0.0,cents per kilowatt-hour
+4734,2023-07,Alaska,industrial,16.46,cents per kilowatt-hour
+4736,2023-07,Alaska,residential,24.96,cents per kilowatt-hour
+4737,2023-07,Alaska,transportation,0.0,cents per kilowatt-hour
+4740,2023-07,Arizona,industrial,8.75,cents per kilowatt-hour
+4742,2023-07,Arizona,residential,14.13,cents per kilowatt-hour
+4743,2023-07,Arizona,transportation,11.25,cents per kilowatt-hour
+4746,2023-07,Arkansas,industrial,7.47,cents per kilowatt-hour
+4748,2023-07,Arkansas,residential,12.53,cents per kilowatt-hour
+4749,2023-07,Arkansas,transportation,16.13,cents per kilowatt-hour
+4752,2023-07,California,industrial,20.66,cents per kilowatt-hour
+4754,2023-07,California,residential,29.46,cents per kilowatt-hour
+4755,2023-07,California,transportation,13.2,cents per kilowatt-hour
+4758,2023-07,Colorado,industrial,8.88,cents per kilowatt-hour
+4760,2023-07,Colorado,residential,14.14,cents per kilowatt-hour
+4761,2023-07,Colorado,transportation,14.15,cents per kilowatt-hour
+4764,2023-07,Connecticut,industrial,15.66,cents per kilowatt-hour
+4766,2023-07,Connecticut,residential,26.63,cents per kilowatt-hour
+4767,2023-07,Connecticut,transportation,22.48,cents per kilowatt-hour
+4770,2023-07,Delaware,industrial,7.98,cents per kilowatt-hour
+4772,2023-07,Delaware,residential,15.09,cents per kilowatt-hour
+4773,2023-07,Delaware,transportation,0.0,cents per kilowatt-hour
+4776,2023-07,District of Columbia,industrial,10.94,cents per kilowatt-hour
+4778,2023-07,District of Columbia,residential,16.61,cents per kilowatt-hour
+4779,2023-07,District of Columbia,transportation,9.19,cents per kilowatt-hour
+4782,2023-07,Florida,industrial,9.26,cents per kilowatt-hour
+4784,2023-07,Florida,residential,14.94,cents per kilowatt-hour
+4785,2023-07,Florida,transportation,11.16,cents per kilowatt-hour
+4788,2023-07,Georgia,industrial,8.17,cents per kilowatt-hour
+4790,2023-07,Georgia,residential,14.33,cents per kilowatt-hour
+4791,2023-07,Georgia,transportation,8.39,cents per kilowatt-hour
+4794,2023-07,Hawaii,industrial,31.37,cents per kilowatt-hour
+4796,2023-07,Hawaii,residential,39.7,cents per kilowatt-hour
+4797,2023-07,Hawaii,transportation,0.0,cents per kilowatt-hour
+4800,2023-07,Idaho,industrial,8.19,cents per kilowatt-hour
+4802,2023-07,Idaho,residential,11.76,cents per kilowatt-hour
+4803,2023-07,Idaho,transportation,0.0,cents per kilowatt-hour
+4806,2023-07,Illinois,industrial,8.07,cents per kilowatt-hour
+4808,2023-07,Illinois,residential,14.81,cents per kilowatt-hour
+4809,2023-07,Illinois,transportation,6.78,cents per kilowatt-hour
+4812,2023-07,Indiana,industrial,7.82,cents per kilowatt-hour
+4814,2023-07,Indiana,residential,14.47,cents per kilowatt-hour
+4815,2023-07,Indiana,transportation,10.62,cents per kilowatt-hour
+4818,2023-07,Iowa,industrial,8.64,cents per kilowatt-hour
+4820,2023-07,Iowa,residential,15.17,cents per kilowatt-hour
+4821,2023-07,Iowa,transportation,0.0,cents per kilowatt-hour
+4824,2023-07,Kansas,industrial,7.57,cents per kilowatt-hour
+4826,2023-07,Kansas,residential,13.48,cents per kilowatt-hour
+4827,2023-07,Kansas,transportation,0.0,cents per kilowatt-hour
+4830,2023-07,Kentucky,industrial,6.54,cents per kilowatt-hour
+4832,2023-07,Kentucky,residential,12.51,cents per kilowatt-hour
+4833,2023-07,Kentucky,transportation,0.0,cents per kilowatt-hour
