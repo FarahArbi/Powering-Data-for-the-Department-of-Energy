@@ -1,7 +1,4 @@
 # Powering-Data-for-the-Department-of-Energy
-<center><img src="image.png" width=500></center>
-
-
 | Field | Data Type |
 | :---- | :-------: |
 | period  | `str`        |
